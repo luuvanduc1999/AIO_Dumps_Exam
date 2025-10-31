@@ -10,9 +10,6 @@ This document contains practice questions for the ServiceNow CSA (Certified Syst
 
 > **Note:** Answer and discussion sections can be collapsed/expanded by clicking on the corresponding headers.
 
-
-# File 1.json
-
 ## Question 1
 
 ### A Service Catalog may include which of the following components?
@@ -498,9 +495,6 @@ Knowledge A.
 
 ---
 
-
-# File 2.json
-
 ## Question 6
 
 ### A new Service Desk employee in Latin America complains that the create dates and times are incorrect on their Incident list. What would you suggest to fix this issue?
@@ -965,9 +959,6 @@ A is correct
 
 ---
 
-
-# File 3.json
-
 ## Question 11
 
 ### What is specified in an Access Control rule?
@@ -1371,9 +1362,6 @@ B is the correct answer
 </details>
 
 ---
-
-
-# File 4.json
 
 ## Question 16
 
@@ -1779,9 +1767,6 @@ the answer is A
 </details>
 
 ---
-
-
-# File 5.json
 
 ## Question 21
 
@@ -2241,9 +2226,6 @@ ChatGPT agrees to A.
 
 ---
 
-
-# File 6.json
-
 ## Question 26
 
 ### What would you do, on a list, if you wanted to show the records in groups, based on the column category? (Choose two.)
@@ -2698,9 +2680,6 @@ https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/product/kno
 </details>
 
 ---
-
-
-# File 7.json
 
 ## Question 31
 
@@ -3168,9 +3147,6 @@ B is correct
 
 ---
 
-
-# File 8.json
-
 ## Question 36
 
 ### Which module is used to access the knowledge bases which are available to you?
@@ -3610,9 +3586,6 @@ D is correct
 </details>
 
 ---
-
-
-# File 9.json
 
 ## Question 41
 
@@ -4132,9 +4105,6 @@ There is no "Configure options"!
 
 ---
 
-
-# File 10.json
-
 ## Question 46
 
 ### What is the platform name for the User table?
@@ -4516,9 +4486,6 @@ D is the right answer.
 
 ---
 
-
-# File 11.json
-
 ## Question 51
 
 ### Which ServiceNow capability provides assistance to help users obtain information, make decisions, and perform common work tasks via a messaging interface?
@@ -4838,9 +4805,6 @@ B, but using using the icon we all know to be the hamburger.
 </details>
 
 ---
-
-
-# File 12.json
 
 ## Question 56
 
@@ -5245,9 +5209,6 @@ Local source, network server, LDAP, JDBC
 
 ---
 
-
-# File 13.json
-
 ## Question 61
 
 ### What are the components that make up a filter condition? (Choose three.)
@@ -5585,9 +5546,6 @@ BCD is correct
 </details>
 
 ---
-
-
-# File 14.json
 
 ## Question 66
 
@@ -5998,9 +5956,6 @@ Common Service Data Model (CSDM) product view is the resource used to view detai
 
 ---
 
-
-# File 15.json
-
 ## Question 71
 
 ### A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales targets. In addition, the manager wants to be able to see those monthly numbers trended over time, and forecasted into the future. What capability do you suggest for this manager?
@@ -6331,9 +6286,6 @@ I agree that "Request + Response" is correct.
 </details>
 
 ---
-
-
-# File 16.json
 
 ## Question 76
 
@@ -6689,9 +6641,6 @@ B is correct
 </details>
 
 ---
-
-
-# File 17.json
 
 ## Question 81
 
@@ -7059,9 +7008,6 @@ knowledge-admin
 
 ---
 
-
-# File 18.json
-
 ## Question 86
 
 ### Which statement correctly describes the differences between a Client Script and a Business Rule?
@@ -7415,9 +7361,6 @@ A is the correct answer
 </details>
 
 ---
-
-
-# File 19.json
 
 ## Question 91
 
@@ -7843,9 +7786,6 @@ https://www.servicenow.com/community/it-service-management-forum/difference-betw
 
 ---
 
-
-# File 20.json
-
 ## Question 96
 
 ### Which tab on the knowledge base record, would you use to identify the sets of users who are able to read articles in that knowledge base?
@@ -8133,9 +8073,6 @@ Maybe C instead?
 </details>
 
 ---
-
-
-# File 21.json
 
 ## Question 101
 
@@ -8430,9 +8367,6 @@ A is correct
 </details>
 
 ---
-
-
-# File 22.json
 
 ## Question 106
 
@@ -8785,9 +8719,6 @@ So I would vote for ADE
 
 ---
 
-
-# File 23.json
-
 ## Question 111
 
 ### Which ServiceNow utility provides a modern interactive graphical interface to visualize configuration items and their relationships?
@@ -9139,9 +9070,6 @@ ACEF is correct. Page 266 of the ServiceNow Administration Fundamentals - Tokyo 
 
 ---
 
-
-# File 24.json
-
 ## Question 116
 
 ### On a filter condition, there is an element, which is based on the table, the user access rights, and columns on the table. What is this element called?
@@ -9416,9 +9344,6 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 </details>
 
 ---
-
-
-# File 25.json
 
 ## Question 121
 
@@ -9810,9 +9735,6 @@ C. is correct
 
 ---
 
-
-# File 26.json
-
 ## Question 126
 
 ### The Report Designer contains different sections for configuring your report. Which section is used to specify grouping and calculations to be run against the data?
@@ -10117,9 +10039,6 @@ C is correct
 </details>
 
 ---
-
-
-# File 27.json
 
 ## Question 131
 
@@ -10446,9 +10365,6 @@ correct
 </details>
 
 ---
-
-
-# File 28.json
 
 ## Question 136
 
@@ -10786,9 +10702,6 @@ B is correct based on the definition of variable set
 </details>
 
 ---
-
-
-# File 29.json
 
 ## Question 141
 
@@ -11149,9 +11062,6 @@ D. https://docs.servicenow.com/bundle/tokyo-platform-administration/page/adminis
 </details>
 
 ---
-
-
-# File 30.json
 
 ## Question 146
 
@@ -11542,9 +11452,6 @@ B is the correct answer
 
 ---
 
-
-# File 31.json
-
 ## Question 151
 
 ### Which ServiceNow utility gives a Service Desk agent the ability to trace from a Service having an issue, to see which CIs supporting that service have active issues?
@@ -11917,9 +11824,6 @@ C is correct
 </details>
 
 ---
-
-
-# File 32.json
 
 ## Question 156
 
@@ -12333,9 +12237,6 @@ I think option A will more fit here.
 
 ---
 
-
-# File 33.json
-
 ## Question 161
 
 ### What feature allows you to limit who is able to contribute or read knowledge within a knowledge base?
@@ -12628,9 +12529,6 @@ E is correct
 </details>
 
 ---
-
-
-# File 34.json
 
 ## Question 166
 
@@ -13043,9 +12941,6 @@ From the Table extensions and classes in Servicenow Product documentation
 
 ---
 
-
-# File 35.json
-
 ## Question 171
 
 ### When a custom table is created, which access control rules are automatically created? (Choose four.)
@@ -13386,9 +13281,6 @@ AB is the correct answer
 </details>
 
 ---
-
-
-# File 36.json
 
 ## Question 176
 
@@ -13810,9 +13702,6 @@ From ChatGPT - The "cmdb_ci" table, also known as the Configuration Item (CI) ta
 
 ---
 
-
-# File 37.json
-
 ## Question 181
 
 ### Which best describes a field in a ServiceNow table?
@@ -14142,9 +14031,6 @@ D is the correct answer
 </details>
 
 ---
-
-
-# File 38.json
 
 ## Question 186
 
@@ -14575,9 +14461,6 @@ A is the correct answer
 
 ---
 
-
-# File 39.json
-
 ## Question 191
 
 ### For your implementation, the following tables are extended from each other:
@@ -14850,9 +14733,6 @@ Documentation: https://docs.servicenow.com/bundle/tokyo-platform-security/page/a
 </details>
 
 ---
-
-
-# File 40.json
 
 ## Question 196
 
@@ -15193,9 +15073,6 @@ D is correct. Page 233 of the ServiceNow Administration Fundamentals - Tokyo Edi
 </details>
 
 ---
-
-
-# File 41.json
 
 ## Question 201
 
@@ -15642,9 +15519,6 @@ page 435, CSA Book (tokyo2022 version)
 
 ---
 
-
-# File 42.json
-
 ## Question 206
 
 ### When using Flow Designer, what is the Flow Execution initiated by?
@@ -15992,9 +15866,6 @@ A IS CORRECT ONLY
 </details>
 
 ---
-
-
-# File 43.json
 
 ## Question 211
 
@@ -16388,9 +16259,6 @@ CDE is correct
 
 ---
 
-
-# File 44.json
-
 ## Question 216
 
 ### A customer wants to use a client script to validate things on a form in order to make sure the submission makes sense. What type of client script would you recommend to meet this requirement?
@@ -16684,9 +16552,6 @@ D is correct.
 </details>
 
 ---
-
-
-# File 45.json
 
 ## Question 221
 
@@ -17055,9 +16920,6 @@ Answer is B
 
 ---
 
-
-# File 46.json
-
 ## Question 226
 
 ### What do you click when you have made modifications to your report, and you want to see the results without saving?
@@ -17398,9 +17260,6 @@ https://docs.servicenow.com/bundle/utah-now-intelligence/page/use/reporting/refe
 </details>
 
 ---
-
-
-# File 47.json
 
 ## Question 231
 
@@ -17767,9 +17626,6 @@ B is correct
 
 ---
 
-
-# File 48.json
-
 ## Question 236
 
 ### On the Form header, which element you to access form templates?
@@ -18059,9 +17915,6 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 </details>
 
 ---
-
-
-# File 49.json
 
 ## Question 241
 
@@ -18389,9 +18242,6 @@ ServiceNow allows you to establish relationships between different configuration
 
 ---
 
-
-# File 50.json
-
 ## Question 246
 
 ### When searching using the App Navigator search field, what can be returned? (Choose four.)
@@ -18714,9 +18564,6 @@ I agree with A, Create Import Set, then Transform map, then Transform data and l
 
 ---
 
-
-# File 51.json
-
 ## Question 251
 
 ### If users would like to locate and assign a task to themselves in the Platform, what action could they perform from the list view to make the assignment? (Choose two.)
@@ -18939,9 +18786,6 @@ So its D because Transform Map is a set of field maps
 </details>
 
 ---
-
-
-# File 52.json
 
 ## Question 256
 
@@ -19263,9 +19107,6 @@ https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/adm
 
 ---
 
-
-# File 53.json
-
 ## Question 261
 
 ### Which element is used to track items not saved with a field, in a record?
@@ -19498,9 +19339,6 @@ Tags can help with categorizing a list of records and you can set visibility for
 </details>
 
 ---
-
-
-# File 55.json
 
 ## Question 271
 
@@ -19822,9 +19660,6 @@ user,incident,task
 
 ---
 
-
-# File 56.json
-
 ## Question 276
 
 ### In a Knowledge Base record, where can an administrator find the User Criteria for who can read the articles?
@@ -20129,9 +19964,6 @@ Textbook definition Retrieve/Preview/Commit.
 
 ---
 
-
-# File 57.json
-
 ## Question 281
 
 ### After finishing your work on High Security Settings, what is a possible way to return to normal admin security levels?
@@ -20370,9 +20202,6 @@ A correct
 </details>
 
 ---
-
-
-# File 58.json
 
 ## Question 286
 
@@ -20689,9 +20518,6 @@ Wildcard applies to every field on a record, without a table.field rule - extrac
 
 ---
 
-
-# File 59.json
-
 ## Question 291
 
 ### What is the purpose of an application scope?
@@ -20881,9 +20707,6 @@ User Interface policies run on the Client side.
 </details>
 
 ---
-
-
-# File 60.json
 
 ## Question 296
 
@@ -21144,9 +20967,6 @@ Regarding D, there's no Language & Region. The only way using the preferences is
 </details>
 
 ---
-
-
-# File 61.json
 
 ## Question 301
 
@@ -21515,9 +21335,6 @@ B is correct for sure...
 </details>
 
 ---
-
-
-# File 62.json
 
 ## Question 306
 
@@ -21960,9 +21777,6 @@ https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/service
 
 ---
 
-
-# File 63.json
-
 ## Question 311
 
 ### Create Incident, Password Reset, and Report outage: what do these services in the Service Catalog have in common?
@@ -22346,9 +22160,6 @@ correct
 </details>
 
 ---
-
-
-# File 64.json
 
 ## Question 316
 
@@ -22770,9 +22581,6 @@ correct
 
 ---
 
-
-# File 65.json
-
 ## Question 321
 
 ### Where can Admins check which release is running on an ServiceNow instance?
@@ -23160,9 +22968,6 @@ correct
 </details>
 
 ---
-
-
-# File 66.json
 
 ## Question 326
 
@@ -23599,9 +23404,6 @@ correct
 
 ---
 
-
-# File 67.json
-
 ## Question 331
 
 ### How do you make a list filter available to everyone?
@@ -24020,9 +23822,6 @@ correct
 </details>
 
 ---
-
-
-# File 68.json
 
 ## Question 336
 
@@ -24446,9 +24245,6 @@ correct
 
 ---
 
-
-# File 69.json
-
 ## Question 341
 
 ### What are two ways to generate an Event? (Choose two.)
@@ -24871,9 +24667,6 @@ correct
 </details>
 
 ---
-
-
-# File 70.json
 
 ## Question 346
 
@@ -25358,9 +25151,6 @@ Correct
 
 ---
 
-
-# File 71.json
-
 ## Question 351
 
 ### What is the difference between a UI Policy and Data Policy?
@@ -25795,9 +25585,6 @@ I think C is the correct answer.
 </details>
 
 ---
-
-
-# File 72.json
 
 ## Question 356
 
@@ -26330,9 +26117,6 @@ ADE is correct
 
 ---
 
-
-# File 73.json
-
 ## Question 361
 
 ### What is generated from the Service Catalog once a user places an order for an item or service?
@@ -26772,9 +26556,6 @@ D is correct
 
 ---
 
-
-# File 74.json
-
 ## Question 366
 
 ### What field contains a record's 32-character, unique identifier?
@@ -27174,9 +26955,6 @@ Every Business Rule includes what table to run against and timing (before or aff
 </details>
 
 ---
-
-
-# File 75.json
 
 ## Question 371
 
