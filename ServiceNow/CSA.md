@@ -4,11 +4,8 @@ This document contains practice questions for the ServiceNow CSA (Certified Syst
 
 ## How to use:
 - 📝 Read the question and answer choices
-- 🤔 Think and choose your answer
-- 🔍 Click "**View Correct Answer**" to see the result
-- 💬 Click "**View Discussion**" to read comments and explanations from the community
-
-> **Note:** Answer and discussion sections can be collapsed/expanded by clicking on the corresponding headers.
+- 🔍 Review the correct answer and community voting results
+- 💬 Read comments and explanations from the community
 
 ## Question 1
 
@@ -25,16 +22,12 @@ This document contains practice questions for the ServiceNow CSA (Certified Syst
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (35 comments)</strong></summary>
+### 💬 Discussion (35 comments)
 
 **👤 sowoc** ⬆️ 5
 
@@ -119,8 +112,6 @@ It is.
 *...and 25 more comments*
 
 
-</details>
-
 ---
 
 ## Question 2
@@ -142,16 +133,12 @@ It is.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCD
 **Community voting results:** BCD (79%), 14%, 7%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (20 comments)</strong></summary>
+### 💬 Discussion (20 comments)
 
 **👤 2pagesServiceNowSolutions** ⬆️ 11
 
@@ -228,8 +215,6 @@ Is correct answer
 *...and 10 more comments*
 
 
-</details>
-
 ---
 
 ## Question 3
@@ -249,16 +234,12 @@ Is correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (21 comments)</strong></summary>
+### 💬 Discussion (21 comments)
 
 **👤 Rwin0001** ⬆️ 15
 
@@ -329,8 +310,6 @@ Because once you go to the report section you can change any type of report you 
 *...and 11 more comments*
 
 
-</details>
-
 ---
 
 ## Question 4
@@ -348,16 +327,12 @@ Because once you go to the report section you can change any type of report you 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (79%), C (21%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 aper** ⬆️ 1
 
@@ -438,8 +413,6 @@ The simplest mapping method is where all of the field names of the import sets m
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 5
@@ -459,16 +432,12 @@ The simplest mapping method is where all of the field names of the import sets m
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Foodiepanda** ⬆️ 1
 
@@ -491,8 +460,6 @@ Knowledge A.
 
 
 
-</details>
-
 ---
 
 ## Question 6
@@ -512,16 +479,12 @@ Knowledge A.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (81%), Other
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (24 comments)</strong></summary>
+### 💬 Discussion (24 comments)
 
 **👤 connal308876** ⬆️ 5
 
@@ -592,8 +555,6 @@ The issue of incorrect create dates and times on the Incident list could be rela
 *...and 14 more comments*
 
 
-</details>
-
 ---
 
 ## Question 7
@@ -617,16 +578,12 @@ The issue of incorrect create dates and times on the Incident list could be rela
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AEG
 **Community voting results:** AEG (89%), 11%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 Rikart2009** ⬆️ 2
 
@@ -662,8 +619,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 8
@@ -685,16 +640,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACD
 **Community voting results:** ACD (58%), CDF (26%), Other
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (29 comments)</strong></summary>
+### 💬 Discussion (29 comments)
 
 **👤 MattMeyer2022** ⬆️ 9
 
@@ -785,8 +736,6 @@ ACD because only those options contains words like "make sure", "to ensure" :DD
 *...and 19 more comments*
 
 
-</details>
-
 ---
 
 ## Question 9
@@ -806,16 +755,12 @@ ACD because only those options contains words like "make sure", "to ensure" :DD
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 6d50eb7** ⬆️ 4
 
@@ -849,8 +794,6 @@ E is correct
 
 
 
-</details>
-
 ---
 
 ## Question 10
@@ -868,16 +811,12 @@ E is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (15 comments)</strong></summary>
+### 💬 Discussion (15 comments)
 
 **👤 Muhammadosama** ⬆️ 6
 
@@ -955,8 +894,6 @@ A is correct
 *...and 5 more comments*
 
 
-</details>
-
 ---
 
 ## Question 11
@@ -974,16 +911,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Nasman096** ⬆️ 10
 
@@ -1008,8 +941,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 12
@@ -1028,16 +959,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (75%), D (25%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 96d187b** ⬆️ 1
 
@@ -1106,8 +1033,6 @@ I don't believe this is correct for the new San Diego NEXT UI.
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 13
@@ -1125,16 +1050,12 @@ I don't believe this is correct for the new San Diego NEXT UI.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (15 comments)</strong></summary>
+### 💬 Discussion (15 comments)
 
 **👤 heeyyyy** ⬆️ 1
 
@@ -1204,8 +1125,6 @@ B is correct
 *...and 5 more comments*
 
 
-</details>
-
 ---
 
 ## Question 14
@@ -1225,16 +1144,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -1256,8 +1171,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 15
@@ -1277,16 +1190,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (15 comments)</strong></summary>
+### 💬 Discussion (15 comments)
 
 **👤 sithupraji** ⬆️ 8
 
@@ -1359,8 +1268,6 @@ B is the correct answer
 *...and 5 more comments*
 
 
-</details>
-
 ---
 
 ## Question 16
@@ -1383,16 +1290,12 @@ After clicking the Funnel icon, what should the user do?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sexyney** ⬆️ 1
 
@@ -1414,8 +1317,6 @@ AND is for satisfying both
 
 
 
-</details>
-
 ---
 
 ## Question 17
@@ -1436,16 +1337,12 @@ Incident field?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 BlackTECH** ⬆️ 1
 
@@ -1473,8 +1370,6 @@ https://docs.servicenow.com/bundle/sandiego-platform-security/page/administer/co
 
 
 
-</details>
-
 ---
 
 ## Question 18
@@ -1495,16 +1390,12 @@ However, both departments have their own service catalogs. What do you do, to su
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 bagoly** ⬆️ 9
 
@@ -1547,8 +1438,6 @@ In Tokyo, the catalog item can be associated with more than one catalog. Open a 
 
 
 
-</details>
-
 ---
 
 ## Question 19
@@ -1568,16 +1457,12 @@ In Tokyo, the catalog item can be associated with more than one catalog. Open a 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (67%), A (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (16 comments)</strong></summary>
+### 💬 Discussion (16 comments)
 
 **👤 timothy_moore** ⬆️ 16
 
@@ -1658,8 +1543,6 @@ Could this question be outdated? At least in Utah I would go User Menu -> Elevat
 *...and 6 more comments*
 
 
-</details>
-
 ---
 
 ## Question 20
@@ -1681,16 +1564,12 @@ Could this question be outdated? At least in Utah I would go User Menu -> Elevat
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (88%), 8%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (22 comments)</strong></summary>
+### 💬 Discussion (22 comments)
 
 **👤 bb369** ⬆️ 12
 
@@ -1764,8 +1643,6 @@ the answer is A
 *...and 12 more comments*
 
 
-</details>
-
 ---
 
 ## Question 21
@@ -1785,16 +1662,12 @@ the answer is A
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 kcheemal007** ⬆️ 1
 
@@ -1823,8 +1696,6 @@ A is correct
 
 
 
-</details>
-
 ---
 
 ## Question 22
@@ -1844,16 +1715,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (60%), B (40%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (17 comments)</strong></summary>
+### 💬 Discussion (17 comments)
 
 **👤 gedgy** ⬆️ 1
 
@@ -1929,8 +1796,6 @@ Once the analyst knows how to create a new report there is no reason for the man
 *...and 7 more comments*
 
 
-</details>
-
 ---
 
 ## Question 23
@@ -1950,16 +1815,12 @@ Once the analyst knows how to create a new report there is no reason for the man
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 6d50eb7** ⬆️ 1
 
@@ -2016,8 +1877,6 @@ A note the other previous question was about 'retrieved', and this question 119 
 
 
 
-</details>
-
 ---
 
 ## Question 24
@@ -2035,16 +1894,12 @@ A note the other previous question was about 'retrieved', and this question 119 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (76%), D (24%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (20 comments)</strong></summary>
+### 💬 Discussion (20 comments)
 
 **👤 WUPHF** ⬆️ 33
 
@@ -2114,8 +1969,6 @@ Is anyone sure, this question is using the correct statement?
 *...and 10 more comments*
 
 
-</details>
-
 ---
 
 ## Question 25
@@ -2135,16 +1988,12 @@ Is anyone sure, this question is using the correct statement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (84%), Other
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (23 comments)</strong></summary>
+### 💬 Discussion (23 comments)
 
 **👤 Kflo** ⬆️ 1
 
@@ -2222,8 +2071,6 @@ ChatGPT agrees to A.
 *...and 13 more comments*
 
 
-</details>
-
 ---
 
 ## Question 26
@@ -2243,16 +2090,12 @@ ChatGPT agrees to A.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AE
 **Community voting results:** AE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 Cnu99999** ⬆️ 1
 
@@ -2280,8 +2123,6 @@ A, E are correct
 
 
 
-</details>
-
 ---
 
 ## Question 27
@@ -2302,15 +2143,11 @@ A, E are correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 CB528** ⬆️ 4
 
@@ -2323,8 +2160,6 @@ its called sidebar in Utah release
 Important: Connect is not supported in Next Experience. If you turn on Next Experience, Connect functionality will no longer work. See Next Experience. https://docs.servicenow.com/en-US/bundle/sandiego-servicenow-platform/page/use/collaboration/concept/c_Connect.html
 
 
-
-</details>
 
 ---
 
@@ -2345,16 +2180,12 @@ Important: Connect is not supported in Next Experience. If you turn on Next Expe
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (76%), 12%, 12%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (17 comments)</strong></summary>
+### 💬 Discussion (17 comments)
 
 **👤 NikaDMars** ⬆️ 1
 
@@ -2449,8 +2280,6 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 *...and 7 more comments*
 
 
-</details>
-
 ---
 
 ## Question 29
@@ -2470,16 +2299,12 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AE
 **Community voting results:** AE (94%), 6%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 bb369** ⬆️ 11
 
@@ -2562,8 +2387,6 @@ AE is correct
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 30
@@ -2589,16 +2412,12 @@ AE is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BD
 **Community voting results:** BD (89%), 11%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 BlackTECH** ⬆️ 1
 
@@ -2677,8 +2496,6 @@ https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/product/kno
 
 
 
-</details>
-
 ---
 
 ## Question 31
@@ -2698,16 +2515,12 @@ https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/product/kno
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (67%), D (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 chicocheco** ⬆️ 12
 
@@ -2777,8 +2590,6 @@ D is correct: The ServiceNow® Conversational Interfaces features enable you to 
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 32
@@ -2800,16 +2611,12 @@ D is correct: The ServiceNow® Conversational Interfaces features enable you to 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AB
 **Community voting results:** AB (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 Bog2022** ⬆️ 12
 
@@ -2873,8 +2680,6 @@ A and B are correct
 
 
 
-</details>
-
 ---
 
 ## Question 33
@@ -2894,16 +2699,12 @@ A and B are correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (97%), 3%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 mona_hmmd** ⬆️ 8
 
@@ -2975,8 +2776,6 @@ Who set this CSA Questions is beyond this world, and then he wants us to pay for
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 34
@@ -2996,16 +2795,12 @@ Who set this CSA Questions is beyond this world, and then he wants us to pay for
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 ba14741** ⬆️ 1
 
@@ -3035,8 +2830,6 @@ B is the right answer
 
 
 
-</details>
-
 ---
 
 ## Question 35
@@ -3054,16 +2847,12 @@ B is the right answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 Remo878** ⬆️ 24
 
@@ -3143,8 +2932,6 @@ B is correct
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 36
@@ -3164,16 +2951,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (19 comments)</strong></summary>
+### 💬 Discussion (19 comments)
 
 **👤 Ibeauo** ⬆️ 7
 
@@ -3250,8 +3033,6 @@ B is correct, D would have been correct if the question mentioned how to see all
 *...and 9 more comments*
 
 
-</details>
-
 ---
 
 ## Question 37
@@ -3276,16 +3057,12 @@ Which type of policy would you use to meet this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** F
 **Community voting results:** F (79%), D (21%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (21 comments)</strong></summary>
+### 💬 Discussion (21 comments)
 
 **👤 Mayur444** ⬆️ 2
 
@@ -3358,8 +3135,6 @@ Making fields to Read-only and mandatory comes under UI Policy
 *...and 11 more comments*
 
 
-</details>
-
 ---
 
 ## Question 38
@@ -3381,16 +3156,12 @@ Making fields to Read-only and mandatory comes under UI Policy
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** F
 **Community voting results:** F (95%), 5%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Dela803** ⬆️ 8
 
@@ -3465,8 +3236,6 @@ F is corrent
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 39
@@ -3486,16 +3255,12 @@ F is corrent
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -3537,8 +3302,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 40
@@ -3558,16 +3321,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Philippvs** ⬆️ 2
 
@@ -3582,8 +3341,6 @@ https://www.servicenow.com/products/it-operations-management/what-is-cmdb.html
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -3602,16 +3359,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (22 comments)</strong></summary>
+### 💬 Discussion (22 comments)
 
 **👤 Spiderman5000** ⬆️ 21
 
@@ -3700,8 +3453,6 @@ Load data
 *...and 12 more comments*
 
 
-</details>
-
 ---
 
 ## Question 42
@@ -3721,16 +3472,12 @@ Load data
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (82%), D (18%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (25 comments)</strong></summary>
+### 💬 Discussion (25 comments)
 
 **👤 Cooper96** ⬆️ 23
 
@@ -3803,8 +3550,6 @@ Flow Designer.
 *...and 15 more comments*
 
 
-</details>
-
 ---
 
 ## Question 43
@@ -3824,16 +3569,12 @@ Flow Designer.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 George_Ch** ⬆️ 21
 
@@ -3899,8 +3640,6 @@ Ha! I laughed at this one. Clearly the answer is "D". I think whoever wrote the 
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 44
@@ -3920,16 +3659,12 @@ Ha! I laughed at this one. Clearly the answer is "D". I think whoever wrote the 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 Adsilva** ⬆️ 11
 
@@ -3991,8 +3726,6 @@ I also think it is A.
 
 
 
-</details>
-
 ---
 
 ## Question 45
@@ -4015,16 +3748,12 @@ Right click on Priority and select what?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (94%), 6%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 dnbly** ⬆️ 6
 
@@ -4101,8 +3830,6 @@ There is no "Configure options"!
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 46
@@ -4120,16 +3847,12 @@ There is no "Configure options"!
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (99%), 1%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (17 comments)</strong></summary>
+### 💬 Discussion (17 comments)
 
 **👤 encqizo** ⬆️ 43
 
@@ -4199,8 +3922,6 @@ sys_user
 *...and 7 more comments*
 
 
-</details>
-
 ---
 
 ## Question 47
@@ -4220,16 +3941,12 @@ sys_user
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 naab143** ⬆️ 1
 
@@ -4263,8 +3980,6 @@ I agree that "System Notification > Email > Notifications" is correct.
 
 
 
-</details>
-
 ---
 
 ## Question 48
@@ -4284,16 +3999,12 @@ I agree that "System Notification > Email > Notifications" is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -4307,8 +4018,6 @@ D DATA PILL
 D is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -4335,16 +4044,12 @@ D is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACFI
 **Community voting results:** ACFI (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (15 comments)</strong></summary>
+### 💬 Discussion (15 comments)
 
 **👤 OtterSpace** ⬆️ 14
 
@@ -4421,8 +4126,6 @@ I just tested in the Reports View.
 *...and 5 more comments*
 
 
-</details>
-
 ---
 
 ## Question 50
@@ -4444,16 +4147,12 @@ I just tested in the Reports View.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 skibumvermont** ⬆️ 1
 
@@ -4482,8 +4181,6 @@ D is the right answer.
 
 
 
-</details>
-
 ---
 
 ## Question 51
@@ -4503,16 +4200,12 @@ D is the right answer.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Lavel** ⬆️ 2
 
@@ -4533,8 +4226,6 @@ C is correct.
 
 
 
-</details>
-
 ---
 
 ## Question 52
@@ -4554,16 +4245,12 @@ C is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -4586,8 +4273,6 @@ Workflow
 
 
 
-</details>
-
 ---
 
 ## Question 53
@@ -4609,16 +4294,12 @@ Workflow
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BC
 **Community voting results:** BC (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 jjn9306** ⬆️ 1
 
@@ -4687,8 +4368,6 @@ Det riktige svaret er B og C.
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 54
@@ -4706,15 +4385,11 @@ Det riktige svaret er B og C.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 tejareddy** ⬆️ 1
 
@@ -4734,8 +4409,6 @@ B is the right answer
 
 
 
-</details>
-
 ---
 
 ## Question 55
@@ -4753,16 +4426,12 @@ B is the right answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 Frost312321** ⬆️ 1
 
@@ -4802,8 +4471,6 @@ B, but using using the icon we all know to be the hamburger.
 
 
 
-</details>
-
 ---
 
 ## Question 56
@@ -4821,16 +4488,12 @@ B, but using using the icon we all know to be the hamburger.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Lavel** ⬆️ 1
 
@@ -4852,8 +4515,6 @@ B is the right answer
 
 
 
-</details>
-
 ---
 
 ## Question 57
@@ -4871,16 +4532,12 @@ B is the right answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 floelynn** ⬆️ 2
 
@@ -4941,8 +4598,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 58
@@ -4960,16 +4615,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Lavel** ⬆️ 2
 
@@ -4984,8 +4635,6 @@ UI Actions is right
 C is correct
 
 
-
-</details>
 
 ---
 
@@ -5004,16 +4653,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (83%), C (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -5088,8 +4733,6 @@ https://docs.servicenow.com/bundle/tokyo-application-development/page/script/bus
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 60
@@ -5111,16 +4754,12 @@ https://docs.servicenow.com/bundle/tokyo-application-development/page/script/bus
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ADEF
 **Community voting results:** ADEF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 GoldBear** ⬆️ 2
 
@@ -5205,8 +4844,6 @@ Local source, network server, LDAP, JDBC
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 61
@@ -5226,16 +4863,12 @@ Local source, network server, LDAP, JDBC
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACE
 **Community voting results:** ACE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 wer3ball** ⬆️ 1
 
@@ -5250,8 +4883,6 @@ https://docs.servicenow.com/bundle/utah-platform-user-interface/page/use/common-
 https://docs.servicenow.com/en-US/bundle/tokyo-platform-user-interface/page/use/using-lists/concept/c_Filters.html
 
 
-
-</details>
 
 ---
 
@@ -5270,16 +4901,12 @@ https://docs.servicenow.com/en-US/bundle/tokyo-platform-user-interface/page/use/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (80%), D (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (17 comments)</strong></summary>
+### 💬 Discussion (17 comments)
 
 **👤 MaDSnow** ⬆️ 1
 
@@ -5348,8 +4975,6 @@ Answer is C
 *...and 7 more comments*
 
 
-</details>
-
 ---
 
 ## Question 63
@@ -5369,16 +4994,12 @@ Answer is C
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 GoldBear** ⬆️ 1
 
@@ -5399,8 +5020,6 @@ D is correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 64
@@ -5420,16 +5039,12 @@ D is correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 s_KASKA** ⬆️ 1
 
@@ -5443,8 +5058,6 @@ The right answer is A. Natural query language (NQL) allows you to type in your q
 Natural Language Query only exists in Utah release
 
 
-
-</details>
 
 ---
 
@@ -5465,16 +5078,12 @@ Natural Language Query only exists in Utah release
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCD
 **Community voting results:** BCD (69%), BDE (31%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 BlackCarpet** ⬆️ 1
 
@@ -5543,8 +5152,6 @@ BCD is correct
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 66
@@ -5562,16 +5169,12 @@ BCD is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Dela803** ⬆️ 9
 
@@ -5639,8 +5242,6 @@ https://docs.servicenow.com/bundle/tokyo-platform-user-interface/page/use/using-
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 67
@@ -5658,16 +5259,12 @@ https://docs.servicenow.com/bundle/tokyo-platform-user-interface/page/use/using-
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 daniuja** ⬆️ 10
 
@@ -5718,8 +5315,6 @@ it must be A, role is not ACL
 
 
 
-</details>
-
 ---
 
 ## Question 68
@@ -5737,16 +5332,12 @@ it must be A, role is not ACL
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 S_040** ⬆️ 6
 
@@ -5798,8 +5389,6 @@ Correct. UI pages and other non-standard interfaces not tracked
 
 
 
-</details>
-
 ---
 
 ## Question 69
@@ -5819,16 +5408,12 @@ Correct. UI pages and other non-standard interfaces not tracked
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (57%), E (43%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 NikaDMars** ⬆️ 1
 
@@ -5900,8 +5485,6 @@ E doesn't make any sense. D is correct
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 70
@@ -5919,16 +5502,12 @@ E doesn't make any sense. D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (50%), C (50%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 zakiyy** ⬆️ 1
 
@@ -5952,8 +5531,6 @@ Common Service Data Model (CSDM) product view is the resource used to view detai
 
 
 
-</details>
-
 ---
 
 ## Question 71
@@ -5973,16 +5550,12 @@ Common Service Data Model (CSDM) product view is the resource used to view detai
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (86%), 14%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 NikaDMars** ⬆️ 1
 
@@ -6050,8 +5623,6 @@ Snapshot - isn't this part of reporting functionality? Not sure why the Answer i
 
 
 
-</details>
-
 ---
 
 ## Question 72
@@ -6071,16 +5642,12 @@ Snapshot - isn't this part of reporting functionality? Not sure why the Answer i
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CDE
 **Community voting results:** CDE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Dela803** ⬆️ 6
 
@@ -6133,8 +5700,6 @@ The answer is C, D, and E
 
 
 
-</details>
-
 ---
 
 ## Question 73
@@ -6154,16 +5719,12 @@ The answer is C, D, and E
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Manny1218** ⬆️ 2
 
@@ -6189,8 +5750,6 @@ If you enable impersonation logging for interactive sessions by setting glide.sy
 
 
 
-</details>
-
 ---
 
 ## Question 74
@@ -6210,15 +5769,11 @@ If you enable impersonation logging for interactive sessions by setting glide.sy
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Ghouse1** ⬆️ 5
 
@@ -6237,8 +5792,6 @@ D is correct. Page 235 of the ServiceNow Administration Fundamentals - Tokyo Edi
 D is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -6259,16 +5812,12 @@ D is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 buchibabe** ⬆️ 2
 
@@ -6282,8 +5831,6 @@ A is correct. Page 433 of the ServiceNow Administration Fundamentals - Tokyo Edi
 I agree that "Request + Response" is correct.
 
 
-
-</details>
 
 ---
 
@@ -6302,16 +5849,12 @@ I agree that "Request + Response" is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Dela803** ⬆️ 10
 
@@ -6363,8 +5906,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 77
@@ -6384,16 +5925,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 PappyFox** ⬆️ 1
 
@@ -6442,8 +5979,6 @@ Is C the correct answer?
 
 
 
-</details>
-
 ---
 
 ## Question 78
@@ -6461,16 +5996,12 @@ Is C the correct answer?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 ba14741** ⬆️ 1
 
@@ -6491,8 +6022,6 @@ D is correct
 
 
 
-</details>
-
 ---
 
 ## Question 79
@@ -6510,16 +6039,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 AselaGaja** ⬆️ 1
 
@@ -6589,8 +6114,6 @@ Correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 80
@@ -6610,15 +6133,11 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -6638,8 +6157,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 81
@@ -6657,16 +6174,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 ba14741** ⬆️ 1
 
@@ -6708,8 +6221,6 @@ All wrong? The answer is Select Box.
 
 
 
-</details>
-
 ---
 
 ## Question 82
@@ -6727,15 +6238,11 @@ All wrong? The answer is Select Box.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 wer3ball** ⬆️ 1
 
@@ -6748,8 +6255,6 @@ A. Its under section "Users & Groups"
 sys_user - is correct
 
 
-
-</details>
 
 ---
 
@@ -6770,16 +6275,12 @@ sys_user - is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 bagoly** ⬆️ 6
 
@@ -6839,8 +6340,6 @@ Notifications
 
 
 
-</details>
-
 ---
 
 ## Question 84
@@ -6858,16 +6357,12 @@ Notifications
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (60%), A (40%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 wer3ball** ⬆️ 5
 
@@ -6950,8 +6445,6 @@ Lab Step 3: Select attached to share this information with the Caller.
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 85
@@ -6969,15 +6462,11 @@ Lab Step 3: Select attached to share this information with the Caller.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -7004,8 +6493,6 @@ knowledge-admin
 
 
 
-</details>
-
 ---
 
 ## Question 86
@@ -7023,16 +6510,12 @@ knowledge-admin
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -7052,8 +6535,6 @@ C is correct. Pages 437 & 438 of the ServiceNow Administration Fundamentals - To
 C. A Client Script executes on the client and a Business Rule executes on the server - is correct
 
 
-
-</details>
 
 ---
 
@@ -7076,16 +6557,12 @@ C. A Client Script executes on the client and a Business Rule executes on the se
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABDF
 **Community voting results:** ABDF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -7146,8 +6623,6 @@ Correct answer is ABDF
 
 
 
-</details>
-
 ---
 
 ## Question 88
@@ -7165,16 +6640,12 @@ Correct answer is ABDF
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -7188,8 +6659,6 @@ Dot walking allows you to pull date from another table
 B- is correct
 
 
-
-</details>
 
 ---
 
@@ -7216,16 +6685,12 @@ B- is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABDGH
 **Community voting results:** ABDGH (90%), 10%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 DezeO** ⬆️ 1
 
@@ -7260,8 +6725,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 90
@@ -7279,16 +6742,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 tk1978** ⬆️ 1
 
@@ -7358,8 +6817,6 @@ A is the correct answer
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 91
@@ -7377,16 +6834,12 @@ A is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 buchibabe** ⬆️ 4
 
@@ -7400,8 +6853,6 @@ B is correct. Page 392 of the ServiceNow Administration Fundamentals - Tokyo Edi
 I agree that "Coalesce Fields" is correct.
 
 
-
-</details>
 
 ---
 
@@ -7420,16 +6871,12 @@ I agree that "Coalesce Fields" is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 CodingAmo** ⬆️ 1
 
@@ -7493,8 +6940,6 @@ A is correct here
 
 
 
-</details>
-
 ---
 
 ## Question 93
@@ -7512,16 +6957,12 @@ A is correct here
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (83%), A (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (19 comments)</strong></summary>
+### 💬 Discussion (19 comments)
 
 **👤 evoken** ⬆️ 9
 
@@ -7591,8 +7032,6 @@ D is correct. Page 429 of the ServiceNow Administration Fundamentals - Tokyo Edi
 *...and 9 more comments*
 
 
-</details>
-
 ---
 
 ## Question 94
@@ -7610,16 +7049,12 @@ D is correct. Page 429 of the ServiceNow Administration Fundamentals - Tokyo Edi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -7680,8 +7115,6 @@ https://docs.servicenow.com/bundle/quebec-servicenow-platform/page/product/busin
 
 
 
-</details>
-
 ---
 
 ## Question 95
@@ -7699,16 +7132,12 @@ https://docs.servicenow.com/bundle/quebec-servicenow-platform/page/product/busin
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 Magic_Carpet** ⬆️ 7
 
@@ -7782,8 +7211,6 @@ https://www.servicenow.com/community/it-service-management-forum/difference-betw
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 96
@@ -7801,16 +7228,12 @@ https://www.servicenow.com/community/it-service-management-forum/difference-betw
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -7831,8 +7254,6 @@ D. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 97
@@ -7852,16 +7273,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCE
 **Community voting results:** BCE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 f5003a6** ⬆️ 2
 
@@ -7892,8 +7309,6 @@ I agree that "Page Header", "Field Navigator", and "Form Layout" are correct.
 
 
 
-</details>
-
 ---
 
 ## Question 98
@@ -7911,16 +7326,12 @@ I agree that "Page Header", "Field Navigator", and "Form Layout" are correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Ginfante** ⬆️ 2
 
@@ -7934,8 +7345,6 @@ https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/product/kno
 D. is correct
 
 
-
-</details>
 
 ---
 
@@ -7960,16 +7369,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACF
 **Community voting results:** ACF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 3
 
@@ -7993,8 +7398,6 @@ ACF is correct
 
 
 
-</details>
-
 ---
 
 ## Question 100
@@ -8012,16 +7415,12 @@ ACF is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 f5003a6** ⬆️ 2
 
@@ -8070,8 +7469,6 @@ Maybe C instead?
 
 
 
-</details>
-
 ---
 
 ## Question 101
@@ -8089,16 +7486,12 @@ Maybe C instead?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (79%), C (21%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (23 comments)</strong></summary>
+### 💬 Discussion (23 comments)
 
 **👤 dalvisa** ⬆️ 1
 
@@ -8174,8 +7567,6 @@ In general, Service Catalog variables do not directly affect the order price. Se
 *...and 13 more comments*
 
 
-</details>
-
 ---
 
 ## Question 102
@@ -8193,16 +7584,12 @@ In general, Service Catalog variables do not directly affect the order price. Se
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 BrooksieOwl** ⬆️ 5
 
@@ -8223,8 +7610,6 @@ D. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 103
@@ -8242,16 +7627,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 ba14741** ⬆️ 1
 
@@ -8265,8 +7646,6 @@ B is correct
 B. is correct
 
 
-
-</details>
 
 ---
 
@@ -8287,16 +7666,12 @@ B. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 PappyFox** ⬆️ 1
 
@@ -8319,8 +7694,6 @@ https://docs.servicenow.com/bundle/tokyo-servicenow-platform/page/product/knowle
 
 
 
-</details>
-
 ---
 
 ## Question 105
@@ -8340,16 +7713,12 @@ https://docs.servicenow.com/bundle/tokyo-servicenow-platform/page/product/knowle
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Qwertydry** ⬆️ 3
 
@@ -8363,8 +7732,6 @@ Option A is Correct. Operation only arrives not Permission.
 A is correct
 
 
-
-</details>
 
 ---
 
@@ -8383,16 +7750,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -8413,8 +7776,6 @@ A is correct
 
 
 
-</details>
-
 ---
 
 ## Question 107
@@ -8434,16 +7795,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CDE
 **Community voting results:** CDE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -8474,8 +7831,6 @@ I agree that C,D,E are correct.
 
 
 
-</details>
-
 ---
 
 ## Question 108
@@ -8497,16 +7852,12 @@ I agree that C,D,E are correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BEF
 **Community voting results:** BEF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 ba14741** ⬆️ 1
 
@@ -8530,8 +7881,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 109
@@ -8549,16 +7898,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (83%), B (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 Ibeauo** ⬆️ 6
 
@@ -8632,8 +7977,6 @@ Is it not B?
 
 
 
-</details>
-
 ---
 
 ## Question 110
@@ -8653,16 +7996,12 @@ Is it not B?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ADE
 **Community voting results:** ADE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 bagoly** ⬆️ 9
 
@@ -8715,8 +8054,6 @@ So I would vote for ADE
 
 
 
-</details>
-
 ---
 
 ## Question 111
@@ -8734,16 +8071,12 @@ So I would vote for ADE
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -8757,8 +8090,6 @@ Dependency view, text book answer
 A is correct
 
 
-
-</details>
 
 ---
 
@@ -8777,16 +8108,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (26 comments)</strong></summary>
+### 💬 Discussion (26 comments)
 
 **👤 Raxon** ⬆️ 5
 
@@ -8858,8 +8185,6 @@ A is correct answer
 *...and 16 more comments*
 
 
-</details>
-
 ---
 
 ## Question 113
@@ -8877,16 +8202,12 @@ A is correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 floelynn** ⬆️ 2
 
@@ -8956,8 +8277,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 114
@@ -8977,16 +8296,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -9006,8 +8321,6 @@ D is correct. Page 75 of the ServiceNow Administration Fundamentals - Tokyo Edit
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -9030,15 +8343,11 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACEF
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 PappyFox** ⬆️ 7
 
@@ -9066,8 +8375,6 @@ ACEF is correct. Page 266 of the ServiceNow Administration Fundamentals - Tokyo 
 
 
 
-</details>
-
 ---
 
 ## Question 116
@@ -9087,16 +8394,12 @@ ACEF is correct. Page 266 of the ServiceNow Administration Fundamentals - Tokyo 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 servicepow** ⬆️ 2
 
@@ -9110,8 +8413,6 @@ D is correct
 D. is correct
 
 
-
-</details>
 
 ---
 
@@ -9132,16 +8433,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -9171,8 +8468,6 @@ B. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 118
@@ -9192,16 +8487,12 @@ B. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 2
 
@@ -9222,8 +8513,6 @@ D. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 119
@@ -9243,16 +8532,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABD
 **Community voting results:** ABD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 f5003a6** ⬆️ 3
 
@@ -9283,8 +8568,6 @@ I agree that "Groups and Users", "Me", and "Everyone" are correct.
 
 
 
-</details>
-
 ---
 
 ## Question 120
@@ -9302,16 +8585,12 @@ I agree that "Groups and Users", "Me", and "Everyone" are correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -9341,8 +8620,6 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 
 
 
-</details>
-
 ---
 
 ## Question 121
@@ -9360,16 +8637,12 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (83%), A (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -9420,8 +8693,6 @@ C. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 122
@@ -9441,16 +8712,12 @@ C. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 2
 
@@ -9471,8 +8738,6 @@ C. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 123
@@ -9490,16 +8755,12 @@ C. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 smeagel** ⬆️ 6
 
@@ -9575,8 +8836,6 @@ Answer is C
 
 
 
-</details>
-
 ---
 
 ## Question 124
@@ -9596,16 +8855,12 @@ Answer is C
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AB
 **Community voting results:** AB (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 Kcaher** ⬆️ 17
 
@@ -9676,8 +8931,6 @@ A, B is the correct answers
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 125
@@ -9695,16 +8948,12 @@ A, B is the correct answers
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -9731,8 +8980,6 @@ C. is correct
 
 
 
-</details>
-
 ---
 
 ## Question 126
@@ -9752,16 +8999,12 @@ C. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 benarji** ⬆️ 2
 
@@ -9820,8 +9063,6 @@ I think B. Grouop by should be the correct answer...
 
 
 
-</details>
-
 ---
 
 ## Question 127
@@ -9839,16 +9080,12 @@ I think B. Grouop by should be the correct answer...
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (75%), D (25%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 gedgy** ⬆️ 3
 
@@ -9870,8 +9107,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 128
@@ -9889,16 +9124,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -9926,8 +9157,6 @@ C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 129
@@ -9947,16 +9176,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Austin98** ⬆️ 2
 
@@ -9978,8 +9203,6 @@ C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 130
@@ -9997,16 +9220,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (89%), 11%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 Mehamood** ⬆️ 5
 
@@ -10036,8 +9255,6 @@ C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 131
@@ -10057,16 +9274,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (56%), C (25%), E (19%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 NikaDMars** ⬆️ 1
 
@@ -10149,8 +9362,6 @@ I would go with C here. The Module you use to load data is indeed called "Load D
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 132
@@ -10168,16 +9379,12 @@ I would go with C here. The Module you use to load data is indeed called "Load D
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 missmam** ⬆️ 5
 
@@ -10207,8 +9414,6 @@ A should be the correct answer. Workflows and tasks are not two-way (i.e. a task
 
 
 
-</details>
-
 ---
 
 ## Question 133
@@ -10226,16 +9431,12 @@ A should be the correct answer. Workflows and tasks are not two-way (i.e. a task
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -10249,8 +9450,6 @@ C - this is where you see the full list of activities
 C is correct
 
 
-
-</details>
 
 ---
 
@@ -10269,16 +9468,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -10292,8 +9487,6 @@ D - create order guide
 D. is correct
 
 
-
-</details>
 
 ---
 
@@ -10312,16 +9505,12 @@ D. is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 julianamendo** ⬆️ 2
 
@@ -10362,8 +9551,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 136
@@ -10381,16 +9568,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -10411,8 +9594,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 137
@@ -10430,16 +9611,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -10474,8 +9651,6 @@ Correct answer is A
 
 
 
-</details>
-
 ---
 
 ## Question 138
@@ -10493,16 +9668,12 @@ Correct answer is A
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -10530,8 +9701,6 @@ B IS CORRECT
 
 
 
-</details>
-
 ---
 
 ## Question 139
@@ -10553,16 +9722,12 @@ B IS CORRECT
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABCE
 **Community voting results:** ABCE (89%), 5%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 ALDADI** ⬆️ 6
 
@@ -10641,8 +9806,6 @@ Confusing question as it uses plurals which are not part of the UI action > New 
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 140
@@ -10668,16 +9831,12 @@ All of the other variables will be specific to the individual catalog item. What
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -10699,8 +9858,6 @@ B is correct based on the definition of variable set
 
 
 
-</details>
-
 ---
 
 ## Question 141
@@ -10718,15 +9875,11 @@ B is correct based on the definition of variable set
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -10746,8 +9899,6 @@ A is correct
 
 
 
-</details>
-
 ---
 
 ## Question 142
@@ -10765,16 +9916,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (83%), A (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 PappyFox** ⬆️ 5
 
@@ -10816,8 +9963,6 @@ A is correct
 
 
 
-</details>
-
 ---
 
 ## Question 143
@@ -10837,16 +9982,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (67%), B (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 FOJ** ⬆️ 5
 
@@ -10919,8 +10060,6 @@ Wouldn't it be B if it was spelled correctly to Field Mapping? Note that not onl
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 144
@@ -10938,16 +10077,12 @@ Wouldn't it be B if it was spelled correctly to Field Mapping? Note that not onl
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11010,8 +10145,6 @@ Global
 
 
 
-</details>
-
 ---
 
 ## Question 145
@@ -11029,16 +10162,12 @@ Global
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -11059,8 +10188,6 @@ D. https://docs.servicenow.com/bundle/tokyo-platform-administration/page/adminis
 
 
 
-</details>
-
 ---
 
 ## Question 146
@@ -11078,16 +10205,12 @@ D. https://docs.servicenow.com/bundle/tokyo-platform-administration/page/adminis
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 AselaGaja** ⬆️ 1
 
@@ -11147,8 +10270,6 @@ Shouldn't it be "D. The CMDB contains ITIL process data pertaining to configurat
 
 
 
-</details>
-
 ---
 
 ## Question 147
@@ -11166,16 +10287,12 @@ Shouldn't it be "D. The CMDB contains ITIL process data pertaining to configurat
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -11204,8 +10321,6 @@ Correct answer is D
 
 
 
-</details>
-
 ---
 
 ## Question 148
@@ -11223,16 +10338,12 @@ Correct answer is D
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CD
 **Community voting results:** CD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 Vishy123** ⬆️ 7
 
@@ -11288,8 +10399,6 @@ AC table creation
 
 
 
-</details>
-
 ---
 
 ## Question 149
@@ -11307,16 +10416,12 @@ AC table creation
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (71%), C (19%), 10%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 Manny1218** ⬆️ 6
 
@@ -11405,8 +10510,6 @@ Create, Read, Update, Delete is CRUD
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 150
@@ -11424,16 +10527,12 @@ Create, Read, Update, Delete is CRUD
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11447,8 +10546,6 @@ B is the answer
 B is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -11467,16 +10564,12 @@ B is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (65%), D (35%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 Manny1218** ⬆️ 6
 
@@ -11550,8 +10643,6 @@ https://docs.servicenow.com/bundle/washingtondc-servicenow-platform/page/product
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 152
@@ -11569,16 +10660,12 @@ https://docs.servicenow.com/bundle/washingtondc-servicenow-platform/page/product
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11606,8 +10693,6 @@ https://docs.servicenow.com/bundle/utah-build-workflows/page/administer/process-
 
 
 
-</details>
-
 ---
 
 ## Question 153
@@ -11627,16 +10712,12 @@ https://docs.servicenow.com/bundle/utah-build-workflows/page/administer/process-
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AE
 **Community voting results:** AE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11664,8 +10745,6 @@ AE are correct
 
 
 
-</details>
-
 ---
 
 ## Question 154
@@ -11685,16 +10764,12 @@ AE are correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABE
 **Community voting results:** ABE (93%), 7%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11761,8 +10836,6 @@ ABE should be correct
 
 
 
-</details>
-
 ---
 
 ## Question 155
@@ -11784,16 +10857,12 @@ Which type of policy would you use to meet this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11821,8 +10890,6 @@ C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 156
@@ -11840,16 +10907,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -11918,8 +10981,6 @@ Answer is A. Self-Service is not a Module. It is an application.
 
 
 
-</details>
-
 ---
 
 ## Question 157
@@ -11937,16 +10998,12 @@ Answer is A. Self-Service is not a Module. It is an application.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 julianamendo** ⬆️ 2
 
@@ -12010,8 +11067,6 @@ A is correct
 
 
 
-</details>
-
 ---
 
 ## Question 158
@@ -12029,16 +11084,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12059,8 +11110,6 @@ A. Catalog Builder
 A is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -12085,16 +11134,12 @@ A is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (83%), B (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (16 comments)</strong></summary>
+### 💬 Discussion (16 comments)
 
 **👤 Jana_GREG** ⬆️ 5
 
@@ -12164,8 +11209,6 @@ Answer is C
 *...and 6 more comments*
 
 
-</details>
-
 ---
 
 ## Question 160
@@ -12183,16 +11226,12 @@ Answer is C
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12233,8 +11272,6 @@ I think option A will more fit here.
 
 
 
-</details>
-
 ---
 
 ## Question 161
@@ -12252,16 +11289,12 @@ I think option A will more fit here.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12283,8 +11316,6 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 
 
 
-</details>
-
 ---
 
 ## Question 162
@@ -12302,16 +11333,12 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (75%), B (25%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 fb9b779** ⬆️ 1
 
@@ -12347,8 +11374,6 @@ A is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 163
@@ -12366,16 +11391,12 @@ A is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12396,8 +11417,6 @@ C. sys_user_group
 C is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -12420,16 +11439,12 @@ C is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCDE
 **Community voting results:** BCDE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 imshop** ⬆️ 1
 
@@ -12468,8 +11483,6 @@ https://docs.servicenow.com/bundle/utah-build-workflows/page/administer/flow-des
 
 
 
-</details>
-
 ---
 
 ## Question 165
@@ -12489,16 +11502,12 @@ https://docs.servicenow.com/bundle/utah-build-workflows/page/administer/flow-des
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12526,8 +11535,6 @@ E is correct
 
 
 
-</details>
-
 ---
 
 ## Question 166
@@ -12547,16 +11554,12 @@ E is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (54%), A (46%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 jjjrrrferere** ⬆️ 14
 
@@ -12640,8 +11643,6 @@ Answer is A. On P.223 in the Vancouver study guide: User Criteria records are ac
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 167
@@ -12659,16 +11660,12 @@ Answer is A. On P.223 in the Vancouver study guide: User Criteria records are ac
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AC
 **Community voting results:** AC (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12697,8 +11694,6 @@ AC is correct
 
 
 
-</details>
-
 ---
 
 ## Question 168
@@ -12716,16 +11711,12 @@ AC is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (89%), 11%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (19 comments)</strong></summary>
+### 💬 Discussion (19 comments)
 
 **👤 fauxmaux** ⬆️ 28
 
@@ -12799,8 +11790,6 @@ A lot of answers here seem to be indicating A as the correct answer, but they se
 *...and 9 more comments*
 
 
-</details>
-
 ---
 
 ## Question 169
@@ -12818,16 +11807,12 @@ A lot of answers here seem to be indicating A as the correct answer, but they se
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12874,8 +11859,6 @@ This is not right, it should be C
 
 
 
-</details>
-
 ---
 
 ## Question 170
@@ -12893,16 +11876,12 @@ This is not right, it should be C
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -12937,8 +11916,6 @@ From the Table extensions and classes in Servicenow Product documentation
 
 
 
-</details>
-
 ---
 
 ## Question 171
@@ -12960,16 +11937,12 @@ From the Table extensions and classes in Servicenow Product documentation
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABEF
 **Community voting results:** ABEF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Nexfo** ⬆️ 2
 
@@ -13032,8 +12005,6 @@ ABEF is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 172
@@ -13051,16 +12022,12 @@ ABEF is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13095,8 +12062,6 @@ C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 173
@@ -13114,16 +12079,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13144,8 +12105,6 @@ Question is repeated / C is correct
 
 
 
-</details>
-
 ---
 
 ## Question 174
@@ -13163,16 +12122,12 @@ Question is repeated / C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AC
 **Community voting results:** AC (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13215,8 +12170,6 @@ AC looks correct
 
 
 
-</details>
-
 ---
 
 ## Question 175
@@ -13234,16 +12187,12 @@ AC looks correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AB
 **Community voting results:** AB (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13278,8 +12227,6 @@ AB is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 176
@@ -13297,16 +12244,12 @@ AB is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13375,8 +12318,6 @@ https://docs.servicenow.com/bundle/tokyo-platform-security/page/administer/secur
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 177
@@ -13396,16 +12337,12 @@ https://docs.servicenow.com/bundle/tokyo-platform-security/page/administer/secur
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13434,8 +12371,6 @@ E is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 178
@@ -13453,16 +12388,12 @@ E is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13491,8 +12422,6 @@ https://docs.servicenow.com/bundle/utah-application-development/page/administer/
 
 
 
-</details>
-
 ---
 
 ## Question 179
@@ -13516,16 +12445,12 @@ https://docs.servicenow.com/bundle/utah-application-development/page/administer/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACDF
 **Community voting results:** ACDF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 Nicknameonetwo** ⬆️ 11
 
@@ -13599,8 +12524,6 @@ Given answer is correct
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 180
@@ -13618,16 +12541,12 @@ Given answer is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (68%), A (32%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (20 comments)</strong></summary>
+### 💬 Discussion (20 comments)
 
 **👤 chatterbox13** ⬆️ 6
 
@@ -13698,8 +12617,6 @@ From ChatGPT - The "cmdb_ci" table, also known as the Configuration Item (CI) ta
 *...and 10 more comments*
 
 
-</details>
-
 ---
 
 ## Question 181
@@ -13717,16 +12634,12 @@ From ChatGPT - The "cmdb_ci" table, also known as the Configuration Item (CI) ta
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (83%), D (18%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (22 comments)</strong></summary>
+### 💬 Discussion (22 comments)
 
 **👤 f5003a6** ⬆️ 7
 
@@ -13802,8 +12715,6 @@ So it is a data, not a record.
 *...and 12 more comments*
 
 
-</details>
-
 ---
 
 ## Question 182
@@ -13823,16 +12734,12 @@ So it is a data, not a record.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CDE
 **Community voting results:** CDE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 sri_ravi** ⬆️ 1
 
@@ -13875,8 +12782,6 @@ CDE is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 183
@@ -13900,16 +12805,12 @@ In this example, what users would have access to this knowledge base?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 Kflo** ⬆️ 2
 
@@ -13939,8 +12840,6 @@ A is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 184
@@ -13960,16 +12859,12 @@ A is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 PappyFox** ⬆️ 1
 
@@ -13977,8 +12872,6 @@ A is the correct answer
 A is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -14003,16 +12896,12 @@ What type of rule(s) would you use to implement this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 manikanta_gnbv** ⬆️ 1
 
@@ -14027,8 +12916,6 @@ D is the answer
 D is the correct answer
 
 
-
-</details>
 
 ---
 
@@ -14047,16 +12934,12 @@ D is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 malarag** ⬆️ 1
 
@@ -14085,8 +12968,6 @@ The setting that allows users to view a Knowledge Base article even if they are 
 
 
 
-</details>
-
 ---
 
 ## Question 187
@@ -14106,16 +12987,12 @@ The setting that allows users to view a Knowledge Base article even if they are 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCD
 **Community voting results:** BCD (67%), BCE (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 73301d1** ⬆️ 1
 
@@ -14166,8 +13043,6 @@ I see in the related list : Problem->Parent but the operator == is not their any
 
 
 
-</details>
-
 ---
 
 ## Question 188
@@ -14185,16 +13060,12 @@ I see in the related list : Problem->Parent but the operator == is not their any
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 faiz10001** ⬆️ 6
 
@@ -14246,8 +13117,6 @@ I thick D is the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 189
@@ -14267,16 +13136,12 @@ I thick D is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCD
 **Community voting results:** BCD (66%), ABC (34%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 ALDADI** ⬆️ 6
 
@@ -14360,8 +13225,6 @@ BCD seems more appropriate
 
 
 
-</details>
-
 ---
 
 ## Question 190
@@ -14379,16 +13242,12 @@ BCD seems more appropriate
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 PLiza2** ⬆️ 18
 
@@ -14457,8 +13316,6 @@ A is the correct answer
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 191
@@ -14488,16 +13345,12 @@ In this situation, which table(s) are Parent, Child and Base tables? (Choose fiv
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BFGHI
 **Community voting results:** BFGHI (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 2
 
@@ -14530,8 +13383,6 @@ H. Task Table is a Parent Table
 
 
 
-</details>
-
 ---
 
 ## Question 192
@@ -14549,16 +13400,12 @@ H. Task Table is a Parent Table
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -14573,8 +13420,6 @@ B is correct
 https://docs.servicenow.com/bundle/utah-now-intelligence/page/use/performance-analytics/concept/pa-overview.html
 
 
-
-</details>
 
 ---
 
@@ -14593,16 +13438,12 @@ https://docs.servicenow.com/bundle/utah-now-intelligence/page/use/performance-an
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -14625,8 +13466,6 @@ https://docs.servicenow.com/bundle/utah-application-development/page/script/clie
 
 
 
-</details>
-
 ---
 
 ## Question 194
@@ -14646,16 +13485,12 @@ https://docs.servicenow.com/bundle/utah-application-development/page/script/clie
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BDE
 **Community voting results:** BDE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 MACCA81** ⬆️ 1
 
@@ -14677,8 +13512,6 @@ BDE is correct. Page 391 of the ServiceNow Administration Fundamentals - Tokyo E
 
 
 
-</details>
-
 ---
 
 ## Question 195
@@ -14698,16 +13531,12 @@ BDE is correct. Page 391 of the ServiceNow Administration Fundamentals - Tokyo E
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABD
 **Community voting results:** ABD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -14730,8 +13559,6 @@ Documentation: https://docs.servicenow.com/bundle/tokyo-platform-security/page/a
 
 
 
-</details>
-
 ---
 
 ## Question 196
@@ -14749,16 +13576,12 @@ Documentation: https://docs.servicenow.com/bundle/tokyo-platform-security/page/a
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Certs_Hub** ⬆️ 2
 
@@ -14772,8 +13595,6 @@ D is correct as per chatgpt.
 D is correct. Page 389 of the ServiceNow Administration Fundamentals - Tokyo Edition.
 
 
-
-</details>
 
 ---
 
@@ -14792,16 +13613,12 @@ D is correct. Page 389 of the ServiceNow Administration Fundamentals - Tokyo Edi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 val7223** ⬆️ 5
 
@@ -14876,8 +13693,6 @@ https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/admi
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 198
@@ -14895,16 +13710,12 @@ https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/admi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 BrooksieOwl** ⬆️ 1
 
@@ -14918,8 +13729,6 @@ Q277 is a duplicate of Q190 but they have different answers. Q190 answer is Bann
 A is correct
 
 
-
-</details>
 
 ---
 
@@ -14940,16 +13749,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (76%), A (24%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 ssadique** ⬆️ 6
 
@@ -15025,8 +13830,6 @@ definitely A
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 200
@@ -15046,16 +13849,12 @@ definitely A
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Certs_Hub** ⬆️ 1
 
@@ -15069,8 +13868,6 @@ D per chatgpt.
 D is correct. Page 233 of the ServiceNow Administration Fundamentals - Tokyo Edition.
 
 
-
-</details>
 
 ---
 
@@ -15089,16 +13886,12 @@ D is correct. Page 233 of the ServiceNow Administration Fundamentals - Tokyo Edi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 AselaGaja** ⬆️ 1
 
@@ -15154,8 +13947,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 202
@@ -15173,16 +13964,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (83%), C (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 amt_123** ⬆️ 1
 
@@ -15249,8 +14036,6 @@ A IS CORRECT
 
 
 
-</details>
-
 ---
 
 ## Question 203
@@ -15270,16 +14055,12 @@ A IS CORRECT
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** E
 **Community voting results:** E (83%), D (17%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Kflo** ⬆️ 1
 
@@ -15348,8 +14129,6 @@ Open your PDI, navigate to Reports > View/Run, click Create a report, "Report na
 
 
 
-</details>
-
 ---
 
 ## Question 204
@@ -15368,16 +14147,12 @@ You are editing a new incident record and would like the "Save" button to be loc
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (63%), B (19%), Other
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (24 comments)</strong></summary>
+### 💬 Discussion (24 comments)
 
 **👤 NikaDMars** ⬆️ 1
 
@@ -15463,8 +14238,6 @@ Therefore, option D is the correct action to take to ensure that the "Save" butt
 *...and 14 more comments*
 
 
-</details>
-
 ---
 
 ## Question 205
@@ -15484,16 +14257,12 @@ Therefore, option D is the correct action to take to ensure that the "Save" butt
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Ginfante** ⬆️ 1
 
@@ -15515,8 +14284,6 @@ page 435, CSA Book (tokyo2022 version)
 
 
 
-</details>
-
 ---
 
 ## Question 206
@@ -15534,16 +14301,12 @@ page 435, CSA Book (tokyo2022 version)
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Certs_Hub** ⬆️ 2
 
@@ -15558,8 +14321,6 @@ In ServiceNow's Flow Designer, the flow execution is initiated by a trigger. Tri
 D is correct.
 
 
-
-</details>
 
 ---
 
@@ -15578,16 +14339,12 @@ D is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Certs_Hub** ⬆️ 3
 
@@ -15602,8 +14359,6 @@ In ServiceNow, the string that displays filter criteria is commonly referred to 
 A is the right answer.
 
 
-
-</details>
 
 ---
 
@@ -15624,16 +14379,12 @@ A is the right answer.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 rittersportler** ⬆️ 8
 
@@ -15711,8 +14462,6 @@ D is correct
 
 
 
-</details>
-
 ---
 
 ## Question 209
@@ -15732,16 +14481,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Certs_Hub** ⬆️ 1
 
@@ -15763,8 +14508,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 210
@@ -15782,16 +14525,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (86%), 14%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Spiderman5000** ⬆️ 6
 
@@ -15863,8 +14602,6 @@ A IS CORRECT ONLY
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 211
@@ -15884,16 +14621,12 @@ A IS CORRECT ONLY
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 GoldBear** ⬆️ 1
 
@@ -15965,8 +14698,6 @@ answer is c
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 212
@@ -15984,16 +14715,12 @@ answer is c
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (93%), 7%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (20 comments)</strong></summary>
+### 💬 Discussion (20 comments)
 
 **👤 julianamendo** ⬆️ 15
 
@@ -16063,8 +14790,6 @@ https://docs.servicenow.com/en-US/bundle/utah-servicenow-platform/page/use/colla
 *...and 10 more comments*
 
 
-</details>
-
 ---
 
 ## Question 213
@@ -16082,16 +14807,12 @@ https://docs.servicenow.com/en-US/bundle/utah-servicenow-platform/page/use/colla
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 MACCA81** ⬆️ 1
 
@@ -16105,8 +14826,6 @@ B is correct. The Admin role would have been correct as well if it was called ad
 B is correct - Page 77 of the ServiceNow Administration Fundamentals - Tokyo Edition.
 
 
-
-</details>
 
 ---
 
@@ -16127,16 +14846,12 @@ B is correct - Page 77 of the ServiceNow Administration Fundamentals - Tokyo Edi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Joe15** ⬆️ 1
 
@@ -16150,8 +14865,6 @@ D is correct
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -16172,16 +14885,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CDE
 **Community voting results:** CDE (80%), ABD (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 Spiderman5000** ⬆️ 5
 
@@ -16255,8 +14964,6 @@ CDE is correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 216
@@ -16274,16 +14981,12 @@ CDE is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -16305,8 +15008,6 @@ A is absolutely correct
 
 
 
-</details>
-
 ---
 
 ## Question 217
@@ -16327,16 +15028,12 @@ An order from the Service Catalog has been placed. Two records in the Platform a
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AB
 **Community voting results:** AB (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -16351,8 +15048,6 @@ B. A record of sc_task
 A and B
 
 
-
-</details>
 
 ---
 
@@ -16371,16 +15066,12 @@ A and B
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 MACCA81** ⬆️ 2
 
@@ -16401,8 +15092,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 219
@@ -16420,16 +15109,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (54%), C (46%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (29 comments)</strong></summary>
+### 💬 Discussion (29 comments)
 
 **👤 smeagel** ⬆️ 8
 
@@ -16511,8 +15196,6 @@ For those saying D — This navigates to catalog items, not the requests.
 *...and 19 more comments*
 
 
-</details>
-
 ---
 
 ## Question 220
@@ -16531,16 +15214,12 @@ Which path would you take to access the table configuration page from a form?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 GoldBear** ⬆️ 1
 
@@ -16548,8 +15227,6 @@ Which path would you take to access the table configuration page from a form?
 D is correct.
 
 
-
-</details>
 
 ---
 
@@ -16568,23 +15245,17 @@ D is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 Vishy123** ⬆️ 5
 
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -16605,16 +15276,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -16622,8 +15289,6 @@ D is correct
 Answer is C
 
 
-
-</details>
 
 ---
 
@@ -16642,16 +15307,12 @@ Answer is C
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (94%), 6%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (22 comments)</strong></summary>
+### 💬 Discussion (22 comments)
 
 **👤 hatanaoki** ⬆️ 10
 
@@ -16738,8 +15399,6 @@ c. a metric is used to measure and evaluate IT service
 *...and 12 more comments*
 
 
-</details>
-
 ---
 
 ## Question 224
@@ -16759,16 +15418,12 @@ c. a metric is used to measure and evaluate IT service
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACDE
 **Community voting results:** ACDE (91%), 9%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 Jana08** ⬆️ 5
 
@@ -16832,8 +15487,6 @@ A, C, D, E is the correct answers
 
 
 
-</details>
-
 ---
 
 ## Question 225
@@ -16851,16 +15504,12 @@ A, C, D, E is the correct answers
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 JollyRgr** ⬆️ 1
 
@@ -16916,8 +15565,6 @@ Answer is B
 
 
 
-</details>
-
 ---
 
 ## Question 226
@@ -16937,16 +15584,12 @@ Answer is B
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -17016,8 +15659,6 @@ Run is correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 227
@@ -17037,16 +15678,12 @@ Run is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 f5003a6** ⬆️ 1
 
@@ -17117,8 +15754,6 @@ The Predictive Intelligence classification framework enables you to use machine-
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 228
@@ -17136,16 +15771,12 @@ The Predictive Intelligence classification framework enables you to use machine-
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 ADILKS** ⬆️ 1
 
@@ -17160,8 +15791,6 @@ D is correct
 https://docs.servicenow.com/bundle/sandiego-application-development/page/administer/auto-test-framework/concept/automated-test-framework.html
 
 
-
-</details>
 
 ---
 
@@ -17180,16 +15809,12 @@ https://docs.servicenow.com/bundle/sandiego-application-development/page/adminis
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -17204,8 +15829,6 @@ D is correct
 https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/service-catalog-management/concept/c_RecordProducer.html
 
 
-
-</details>
 
 ---
 
@@ -17226,16 +15849,12 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/service
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 benarji** ⬆️ 1
 
@@ -17257,8 +15876,6 @@ https://docs.servicenow.com/bundle/utah-now-intelligence/page/use/reporting/refe
 
 
 
-</details>
-
 ---
 
 ## Question 231
@@ -17278,15 +15895,11 @@ https://docs.servicenow.com/bundle/utah-now-intelligence/page/use/reporting/refe
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 yo_mamma** ⬆️ 5
 
@@ -17300,8 +15913,6 @@ https://docs.servicenow.com/bundle/utah-platform-security/page/administer/contex
 B is correct - Page 364 of the ServiceNow Administration Fundamentals - Tokyo Edition.
 
 
-
-</details>
 
 ---
 
@@ -17324,16 +15935,12 @@ B is correct - Page 364 of the ServiceNow Administration Fundamentals - Tokyo Ed
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACE
 **Community voting results:** ACE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 amt_123** ⬆️ 1
 
@@ -17406,8 +16013,6 @@ I think it's ADE
 
 
 
-</details>
-
 ---
 
 ## Question 233
@@ -17435,16 +16040,12 @@ After navigating to the list, where would you click, to meet this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 gedgy** ⬆️ 1
 
@@ -17466,8 +16067,6 @@ https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/
 
 
 
-</details>
-
 ---
 
 ## Question 234
@@ -17485,16 +16084,12 @@ https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -17525,8 +16120,6 @@ This is a duplicate of Q174, however, I think Q174 community vote is wrong and i
 
 
 
-</details>
-
 ---
 
 ## Question 235
@@ -17544,16 +16137,12 @@ This is a duplicate of Q174, however, I think Q174 community vote is wrong and i
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 9e0bd16** ⬆️ 1
 
@@ -17622,8 +16211,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 236
@@ -17641,16 +16228,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -17672,8 +16255,6 @@ https://docs.servicenow.com/bundle/utah-platform-user-interface/page/administer/
 
 
 
-</details>
-
 ---
 
 ## Question 237
@@ -17693,16 +16274,12 @@ https://docs.servicenow.com/bundle/utah-platform-user-interface/page/administer/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -17724,8 +16301,6 @@ https://docs.servicenow.com/bundle/sandiego-platform-administration/page/adminis
 
 
 
-</details>
-
 ---
 
 ## Question 238
@@ -17743,16 +16318,12 @@ https://docs.servicenow.com/bundle/sandiego-platform-administration/page/adminis
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 ddiggler** ⬆️ 1
 
@@ -17825,8 +16396,6 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 239
@@ -17844,16 +16413,12 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Certs_Hub** ⬆️ 1
 
@@ -17867,8 +16432,6 @@ Pencil is correct.
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -17887,16 +16450,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 GoldBear** ⬆️ 1
 
@@ -17911,8 +16470,6 @@ C is correct
 https://docs.servicenow.com/bundle/utah-employee-service-management/page/product/human-resources/reference/transform-maps-navex.html
 
 
-
-</details>
 
 ---
 
@@ -17931,16 +16488,12 @@ https://docs.servicenow.com/bundle/utah-employee-service-management/page/product
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (67%), B (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 aakash101** ⬆️ 1
 
@@ -17970,8 +16523,6 @@ https://docs.servicenow.com/bundle/utah-platform-user-interface/page/administer/
 
 
 
-</details>
-
 ---
 
 ## Question 242
@@ -17991,16 +16542,12 @@ https://docs.servicenow.com/bundle/utah-platform-user-interface/page/administer/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 GoldenDisciple2** ⬆️ 1
 
@@ -18062,8 +16609,6 @@ I think the answer is A
 
 
 
-</details>
-
 ---
 
 ## Question 243
@@ -18083,16 +16628,12 @@ I think the answer is A
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Chanukagalagamage** ⬆️ 1
 
@@ -18162,8 +16703,6 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 244
@@ -18181,16 +16720,12 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 GoldBear** ⬆️ 1
 
@@ -18198,8 +16733,6 @@ https://docs.servicenow.com/bundle/utah-servicenow-platform/page/product/knowled
 A- UI Policies are run on the client - SNAF page 434.
 
 
-
-</details>
 
 ---
 
@@ -18218,16 +16751,12 @@ A- UI Policies are run on the client - SNAF page 434.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 Certs_Hub** ⬆️ 2
 
@@ -18237,8 +16766,6 @@ B. Relationships
 ServiceNow allows you to establish relationships between different configuration items, such as servers and services. By defining relationships, you can create a map of dependencies, and this helps in understanding the impact of changes and tracing connections between various elements in your infrastructure.
 
 
-
-</details>
 
 ---
 
@@ -18261,16 +16788,12 @@ ServiceNow allows you to establish relationships between different configuration
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABCD
 **Community voting results:** ABCD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Ekayy** ⬆️ 9
 
@@ -18338,8 +16861,6 @@ A, B, C, D is the correct answers
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 247
@@ -18357,16 +16878,12 @@ A, B, C, D is the correct answers
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 Certs_Hub** ⬆️ 2
 
@@ -18374,8 +16891,6 @@ A, B, C, D is the correct answers
 C is correct.
 
 
-
-</details>
 
 ---
 
@@ -18396,16 +16911,12 @@ C is correct.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 GilSAtx** ⬆️ 2
 
@@ -18413,8 +16924,6 @@ C is correct.
 Answer is A Configuration item
 
 
-
-</details>
 
 ---
 
@@ -18435,16 +16944,12 @@ Answer is A Configuration item
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (50%), C (50%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 che98008** ⬆️ 6
 
@@ -18516,8 +17021,6 @@ Review Target Table Records:
 
 
 
-</details>
-
 ---
 
 ## Question 250
@@ -18535,16 +17038,12 @@ Review Target Table Records:
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -18559,8 +17058,6 @@ A is the Way
 I agree with A, Create Import Set, then Transform map, then Transform data and lastly clean up.
 
 
-
-</details>
 
 ---
 
@@ -18581,16 +17078,12 @@ I agree with A, Create Import Set, then Transform map, then Transform data and l
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CD
 **Community voting results:** CD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 deng27** ⬆️ 7
 
@@ -18612,8 +17105,6 @@ Is 323 and 325 answer correct?
 
 
 
-</details>
-
 ---
 
 ## Question 252
@@ -18631,16 +17122,12 @@ Is 323 and 325 answer correct?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 BrooksieOwl** ⬆️ 1
 
@@ -18654,8 +17141,6 @@ Duplicate of Q206
 I agree with D, Transform Map
 
 
-
-</details>
 
 ---
 
@@ -18676,16 +17161,12 @@ I agree with D, Transform Map
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -18693,8 +17174,6 @@ I agree with D, Transform Map
 D - is a messaging interface that allows users to get info.
 
 
-
-</details>
 
 ---
 
@@ -18713,16 +17192,12 @@ D - is a messaging interface that allows users to get info.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -18736,8 +17211,6 @@ D - correct as it's an instance resource. Now Support, Community, Docs are not i
 Duplicate of 210
 
 
-
-</details>
 
 ---
 
@@ -18758,16 +17231,12 @@ Duplicate of 210
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -18782,8 +17251,6 @@ Duplicate of Q227. Answer should be Field Mapping. But we dont have that option.
 So its D because Transform Map is a set of field maps
 
 
-
-</details>
 
 ---
 
@@ -18802,16 +17269,12 @@ So its D because Transform Map is a set of field maps
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Cplatt** ⬆️ 1
 
@@ -18864,8 +17327,6 @@ Its D more options (...)
 
 
 
-</details>
-
 ---
 
 ## Question 257
@@ -18883,16 +17344,12 @@ Its D more options (...)
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (86%), 14%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 Nexfo** ⬆️ 1
 
@@ -18963,8 +17420,6 @@ dot-walking, C is correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 258
@@ -18982,16 +17437,12 @@ dot-walking, C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 DeCharlie** ⬆️ 1
 
@@ -19023,8 +17474,6 @@ The answer is D. As seen in SNAF Page 368
 
 
 
-</details>
-
 ---
 
 ## Question 259
@@ -19042,16 +17491,12 @@ The answer is D. As seen in SNAF Page 368
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 90bc085** ⬆️ 1
 
@@ -19065,8 +17510,6 @@ its B for sure
 B should be the right
 
 
-
-</details>
 
 ---
 
@@ -19085,16 +17528,12 @@ B should be the right
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 f5003a6** ⬆️ 5
 
@@ -19102,8 +17541,6 @@ B should be the right
 https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/form-administration/concept/c_FormPersonalizationAdmin.html
 
 
-
-</details>
 
 ---
 
@@ -19122,16 +17559,12 @@ https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/adm
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Kflo** ⬆️ 1
 
@@ -19154,8 +17587,6 @@ https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/adm
 
 
 
-</details>
-
 ---
 
 ## Question 262
@@ -19175,16 +17606,12 @@ https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/adm
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19205,8 +17632,6 @@ https://developer.servicenow.com/dev.do#!/learn/learning-plans/utah/new_to_servi
 
 
 
-</details>
-
 ---
 
 ## Question 263
@@ -19224,16 +17649,12 @@ https://developer.servicenow.com/dev.do#!/learn/learning-plans/utah/new_to_servi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19241,8 +17662,6 @@ https://developer.servicenow.com/dev.do#!/learn/learning-plans/utah/new_to_servi
 Something that applies to data inputs via forms, integrations, etc must run on the server side.
 
 
-
-</details>
 
 ---
 
@@ -19261,16 +17680,12 @@ Something that applies to data inputs via forms, integrations, etc must run on t
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (86%), 14%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 gedgy** ⬆️ 3
 
@@ -19299,8 +17714,6 @@ Answer: A - Server Script.
 
 
 
-</details>
-
 ---
 
 ## Question 265
@@ -19318,16 +17731,12 @@ Answer: A - Server Script.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19335,8 +17744,6 @@ Answer: A - Server Script.
 Tags can help with categorizing a list of records and you can set visibility for the tags
 
 
-
-</details>
 
 ---
 
@@ -19357,16 +17764,12 @@ Tags can help with categorizing a list of records and you can set visibility for
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CE
 **Community voting results:** CE (78%), BD (22%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19418,8 +17821,6 @@ B and D is correct
 
 
 
-</details>
-
 ---
 
 ## Question 272
@@ -19437,16 +17838,12 @@ B and D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 JuanSP** ⬆️ 1
 
@@ -19488,8 +17885,6 @@ B should be the correct answer
 
 
 
-</details>
-
 ---
 
 ## Question 273
@@ -19507,16 +17902,12 @@ B should be the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 amt_123** ⬆️ 1
 
@@ -19524,8 +17915,6 @@ B should be the correct answer
 • B. Update sets
 
 
-
-</details>
 
 ---
 
@@ -19544,16 +17933,12 @@ B should be the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (60%), D (40%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 7c9877a** ⬆️ 1
 
@@ -19601,8 +17986,6 @@ References1: Access control list rules - Product Documentation: Utah - ServiceNo
 
 
 
-</details>
-
 ---
 
 ## Question 275
@@ -19624,16 +18007,12 @@ References1: Access control list rules - Product Documentation: Utah - ServiceNo
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACE
 **Community voting results:** ACE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 bern_111** ⬆️ 4
 
@@ -19656,8 +18035,6 @@ user,incident,task
 
 
 
-</details>
-
 ---
 
 ## Question 276
@@ -19675,16 +18052,12 @@ user,incident,task
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 Raxon** ⬆️ 2
 
@@ -19695,8 +18068,6 @@ Under Knowledge -> Administration -> Knowledge Bases.
 The knowledge records shows Can Read as a tab.
 
 
-
-</details>
 
 ---
 
@@ -19715,16 +18086,12 @@ The knowledge records shows Can Read as a tab.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19738,8 +18105,6 @@ Impersonation is an action that allows you to view what is accessible to the use
 Bomgar....
 
 
-
-</details>
 
 ---
 
@@ -19760,16 +18125,12 @@ Bomgar....
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABE
 **Community voting results:** ABE (65%), BCE (24%), 12%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 weet123** ⬆️ 5
 
@@ -19834,8 +18195,6 @@ Literally read it out of the SNOW Admin knowledge book
 
 
 
-</details>
-
 ---
 
 ## Question 279
@@ -19853,16 +18212,12 @@ Literally read it out of the SNOW Admin knowledge book
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 julianamendo** ⬆️ 1
 
@@ -19923,8 +18278,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 280
@@ -19942,16 +18295,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -19959,8 +18308,6 @@ correct
 Textbook definition Retrieve/Preview/Commit.
 
 
-
-</details>
 
 ---
 
@@ -19981,16 +18328,12 @@ Textbook definition Retrieve/Preview/Commit.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 skepraxis** ⬆️ 1
 
@@ -20018,8 +18361,6 @@ B: Login out and back in
 
 
 
-</details>
-
 ---
 
 ## Question 282
@@ -20037,16 +18378,12 @@ B: Login out and back in
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 8d6fb83** ⬆️ 2
 
@@ -20054,8 +18391,6 @@ B: Login out and back in
 C: Template is correct
 
 
-
-</details>
 
 ---
 
@@ -20074,16 +18409,12 @@ C: Template is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20091,8 +18422,6 @@ C: Template is correct
 Application scope protects app data.
 
 
-
-</details>
 
 ---
 
@@ -20111,16 +18440,12 @@ Application scope protects app data.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 DDD1377** ⬆️ 2
 
@@ -20162,8 +18487,6 @@ B. Maintain Items is correct
 
 
 
-</details>
-
 ---
 
 ## Question 285
@@ -20181,16 +18504,12 @@ B. Maintain Items is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 40a783b** ⬆️ 1
 
@@ -20198,8 +18517,6 @@ B. Maintain Items is correct
 A correct
 
 
-
-</details>
 
 ---
 
@@ -20218,16 +18535,12 @@ A correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Latyfah** ⬆️ 6
 
@@ -20251,8 +18564,6 @@ Formatter
 
 
 
-</details>
-
 ---
 
 ## Question 287
@@ -20270,16 +18581,12 @@ Formatter
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 Latyfah** ⬆️ 6
 
@@ -20296,8 +18603,6 @@ You need to go to System Properties > UI Properties to enable the save, update a
 C is correct, tried it in my PDI
 
 
-
-</details>
 
 ---
 
@@ -20324,16 +18629,12 @@ C is correct, tried it in my PDI
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ADEF
 **Community voting results:** ADEF (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 257884d** ⬆️ 5
 
@@ -20367,8 +18668,6 @@ In business rule definition the "when" field contains before, after, async and d
 
 
 
-</details>
-
 ---
 
 ## Question 289
@@ -20388,16 +18687,12 @@ In business rule definition the "when" field contains before, after, async and d
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACD
 **Community voting results:** ACD (63%), ACE (38%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 chelu** ⬆️ 1
 
@@ -20477,8 +18772,6 @@ correct
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 290
@@ -20496,16 +18789,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20513,8 +18802,6 @@ correct
 Wildcard applies to every field on a record, without a table.field rule - extract from the CSA Book.
 
 
-
-</details>
 
 ---
 
@@ -20533,16 +18820,12 @@ Wildcard applies to every field on a record, without a table.field rule - extrac
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 manojabc** ⬆️ 1
 
@@ -20550,8 +18833,6 @@ Wildcard applies to every field on a record, without a table.field rule - extrac
 A is correct
 
 
-
-</details>
 
 ---
 
@@ -20570,16 +18851,12 @@ A is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20587,8 +18864,6 @@ A is correct
 Tested in PDI
 
 
-
-</details>
 
 ---
 
@@ -20607,16 +18882,12 @@ Tested in PDI
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20624,8 +18895,6 @@ Tested in PDI
 Basic steps per CSA book
 
 
-
-</details>
 
 ---
 
@@ -20649,16 +18918,12 @@ What type of script would you use to meet this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20666,8 +18931,6 @@ What type of script would you use to meet this requirement?
 CSA book uses these exact examples to explain what a Client Script is.
 
 
-
-</details>
 
 ---
 
@@ -20686,16 +18949,12 @@ CSA book uses these exact examples to explain what a Client Script is.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20703,8 +18962,6 @@ CSA book uses these exact examples to explain what a Client Script is.
 User Interface policies run on the Client side.
 
 
-
-</details>
 
 ---
 
@@ -20734,16 +18991,12 @@ How would you add these options to the catalog item form?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20751,8 +19004,6 @@ How would you add these options to the catalog item form?
 As per CSA book chapter on Catalog Items/Variables
 
 
-
-</details>
 
 ---
 
@@ -20771,16 +19022,12 @@ As per CSA book chapter on Catalog Items/Variables
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -20788,8 +19035,6 @@ As per CSA book chapter on Catalog Items/Variables
 Activity Formatter shows all the activities in the task form
 
 
-
-</details>
 
 ---
 
@@ -20808,16 +19053,12 @@ Activity Formatter shows all the activities in the task form
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 Parth012** ⬆️ 1
 
@@ -20863,8 +19104,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 299
@@ -20884,16 +19123,12 @@ Which action supports this requirement?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 IT_Bank** ⬆️ 1
 
@@ -20922,8 +19157,6 @@ My wife's boyfriend told me this as a fact
 
 
 
-</details>
-
 ---
 
 ## Question 300
@@ -20943,16 +19176,12 @@ My wife's boyfriend told me this as a fact
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 d6c6f7b** ⬆️ 1
 
@@ -20963,8 +19192,6 @@ All-> system properties -> System Configuration
 Regarding D, there's no Language & Region. The only way using the preferences is to go to display and change the time there.
 
 
-
-</details>
 
 ---
 
@@ -20985,16 +19212,12 @@ Regarding D, there's no Language & Region. The only way using the preferences is
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 73301d1** ⬆️ 1
 
@@ -21003,8 +19226,6 @@ A Database View in ServiceNow allows you to join data from multiple tables (e.g.
 Perfect for scenarios where dot-walking can’t access the necessary related records.
 
 
-
-</details>
 
 ---
 
@@ -21023,16 +19244,12 @@ Perfect for scenarios where dot-walking can’t access the necessary related rec
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 GoldBear** ⬆️ 2
 
@@ -21107,8 +19324,6 @@ correct
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 303
@@ -21126,16 +19341,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (60%), B (20%), D (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 73301d1** ⬆️ 1
 
@@ -21176,8 +19387,6 @@ Isnt the answer A?
 
 
 
-</details>
-
 ---
 
 ## Question 304
@@ -21197,16 +19406,12 @@ Isnt the answer A?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AC
 **Community voting results:** CD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (1 comments)</strong></summary>
+### 💬 Discussion (1 comments)
 
 **👤 73301d1** ⬆️ 1
 
@@ -21229,8 +19434,6 @@ Selecting the application allows you to update metadata, including the title and
 
 
 
-</details>
-
 ---
 
 ## Question 305
@@ -21248,16 +19451,12 @@ Selecting the application allows you to update metadata, including the title and
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (99%), 1%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (62 comments)</strong></summary>
+### 💬 Discussion (62 comments)
 
 **👤 Jo98778** ⬆️ 28
 
@@ -21332,8 +19531,6 @@ B is correct for sure...
 *...and 52 more comments*
 
 
-</details>
-
 ---
 
 ## Question 306
@@ -21351,16 +19548,12 @@ B is correct for sure...
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (16 comments)</strong></summary>
+### 💬 Discussion (16 comments)
 
 **👤 vosegoh** ⬆️ 2
 
@@ -21433,8 +19626,6 @@ C is correct
 *...and 6 more comments*
 
 
-</details>
-
 ---
 
 ## Question 307
@@ -21452,16 +19643,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 FOJ** ⬆️ 8
 
@@ -21511,8 +19698,6 @@ https://docs.servicenow.com/bundle/sandiego-platform-administration/page/adminis
 
 
 
-</details>
-
 ---
 
 ## Question 308
@@ -21530,16 +19715,12 @@ https://docs.servicenow.com/bundle/sandiego-platform-administration/page/adminis
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Thattechgirl** ⬆️ 11
 
@@ -21599,8 +19780,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 309
@@ -21618,16 +19797,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (9 comments)</strong></summary>
+### 💬 Discussion (9 comments)
 
 **👤 Dibonddo** ⬆️ 6
 
@@ -21687,8 +19862,6 @@ Correct. In ServiceNow, roles are used to limit and control access to features i
 
 
 
-</details>
-
 ---
 
 ## Question 310
@@ -21706,16 +19879,12 @@ Correct. In ServiceNow, roles are used to limit and control access to features i
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Dibonddo** ⬆️ 5
 
@@ -21773,8 +19942,6 @@ https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/service
 
 
 
-</details>
-
 ---
 
 ## Question 311
@@ -21792,16 +19959,12 @@ https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/service
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 Dibonddo** ⬆️ 6
 
@@ -21846,8 +20009,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 312
@@ -21865,16 +20026,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 Dibonddo** ⬆️ 8
 
@@ -21921,8 +20078,6 @@ https://docs.servicenow.com/bundle/rome-platform-administration/page/administer/
 
 
 
-</details>
-
 ---
 
 ## Question 313
@@ -21940,16 +20095,12 @@ https://docs.servicenow.com/bundle/rome-platform-administration/page/administer/
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 Dibonddo** ⬆️ 6
 
@@ -21989,8 +20140,6 @@ D is correct
 
 
 
-</details>
-
 ---
 
 ## Question 314
@@ -22008,16 +20157,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 Kcaher** ⬆️ 5
 
@@ -22088,8 +20233,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 315
@@ -22107,16 +20250,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22157,8 +20296,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 316
@@ -22176,16 +20313,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Dibonddo** ⬆️ 8
 
@@ -22245,8 +20378,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 317
@@ -22264,16 +20395,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AD
 **Community voting results:** AD (95%), 5%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (25 comments)</strong></summary>
+### 💬 Discussion (25 comments)
 
 **👤 HNTrinh** ⬆️ 7
 
@@ -22343,8 +20470,6 @@ Is correct answer
 *...and 15 more comments*
 
 
-</details>
-
 ---
 
 ## Question 318
@@ -22362,16 +20487,12 @@ Is correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22423,8 +20544,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 319
@@ -22442,16 +20561,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22495,8 +20610,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 320
@@ -22514,16 +20627,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22577,8 +20686,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 321
@@ -22596,16 +20703,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (88%), 13%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22675,8 +20778,6 @@ B is correct
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 322
@@ -22694,16 +20795,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22743,8 +20840,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 323
@@ -22762,16 +20857,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22812,8 +20903,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 324
@@ -22831,16 +20920,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22893,8 +20978,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 325
@@ -22912,16 +20995,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -22965,8 +21044,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 326
@@ -22984,16 +21061,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 JordiFT** ⬆️ 2
 
@@ -23028,8 +21101,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 327
@@ -23049,16 +21120,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BCD
 **Community voting results:** BCD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 2
 
@@ -23100,8 +21167,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 328
@@ -23121,16 +21186,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ACE
 **Community voting results:** ACE (80%), ABC (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 SNOW_SAGAR** ⬆️ 1
 
@@ -23209,8 +21270,6 @@ correct. https://docs.servicenow.com/bundle/quebec-servicenow-platform/page/prod
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 329
@@ -23232,16 +21291,12 @@ correct. https://docs.servicenow.com/bundle/quebec-servicenow-platform/page/prod
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABD
 **Community voting results:** ABD (80%), ABE (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (13 comments)</strong></summary>
+### 💬 Discussion (13 comments)
 
 **👤 fauxmaux** ⬆️ 21
 
@@ -23317,8 +21372,6 @@ User criteria is used in Knowledge Base and Service Catalog.
 *...and 3 more comments*
 
 
-</details>
-
 ---
 
 ## Question 330
@@ -23336,16 +21389,12 @@ User criteria is used in Knowledge Base and Service Catalog.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (80%), A (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Frost312321** ⬆️ 1
 
@@ -23400,8 +21449,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 331
@@ -23419,16 +21466,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 2zackattack2** ⬆️ 9
 
@@ -23508,8 +21551,6 @@ C is correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 332
@@ -23527,16 +21568,12 @@ C is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (80%), A (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (21 comments)</strong></summary>
+### 💬 Discussion (21 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -23604,8 +21641,6 @@ D is correct
 *...and 11 more comments*
 
 
-</details>
-
 ---
 
 ## Question 333
@@ -23623,16 +21658,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -23674,8 +21705,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 334
@@ -23693,16 +21722,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -23751,8 +21776,6 @@ https://docs.servicenow.com/en-US/bundle/sandiego-platform-administration/page/a
 
 
 
-</details>
-
 ---
 
 ## Question 335
@@ -23770,16 +21793,12 @@ https://docs.servicenow.com/en-US/bundle/sandiego-platform-administration/page/a
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -23819,8 +21838,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 336
@@ -23838,16 +21855,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (80%), A (20%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 BlackTECH** ⬆️ 1
 
@@ -23914,8 +21927,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 337
@@ -23933,16 +21944,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -23976,8 +21983,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 338
@@ -23995,16 +22000,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 kcheemal007** ⬆️ 1
 
@@ -24059,8 +22060,6 @@ Correct
 
 
 
-</details>
-
 ---
 
 ## Question 339
@@ -24078,16 +22077,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (14 comments)</strong></summary>
+### 💬 Discussion (14 comments)
 
 **👤 BidduSnow** ⬆️ 5
 
@@ -24160,8 +22155,6 @@ C is the correct answer
 *...and 4 more comments*
 
 
-</details>
-
 ---
 
 ## Question 340
@@ -24179,16 +22172,12 @@ C is the correct answer
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** CD
 **Community voting results:** CD (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -24241,8 +22230,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 341
@@ -24260,16 +22247,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** AB
 **Community voting results:** AB (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 lhughes** ⬆️ 5
 
@@ -24303,8 +22286,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 342
@@ -24323,16 +22304,12 @@ Problem [problem] tables?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (7 comments)</strong></summary>
+### 💬 Discussion (7 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -24379,8 +22356,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 343
@@ -24398,16 +22373,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (70 comments)</strong></summary>
+### 💬 Discussion (70 comments)
 
 **👤 Jo98778** ⬆️ 35
 
@@ -24484,8 +22455,6 @@ B is the correct answer.
 *...and 60 more comments*
 
 
-</details>
-
 ---
 
 ## Question 344
@@ -24503,16 +22472,12 @@ B is the correct answer.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (88%), 13%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 Felix010** ⬆️ 1
 
@@ -24582,8 +22547,6 @@ A unique 32-character GUID (Globally Unique ID), called a Sys ID (sys_id) identi
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 345
@@ -24601,16 +22564,12 @@ A unique 32-character GUID (Globally Unique ID), called a Sys ID (sys_id) identi
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Jo98778** ⬆️ 5
 
@@ -24664,8 +22623,6 @@ correct
 
 
 
-</details>
-
 ---
 
 ## Question 346
@@ -24683,16 +22640,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (74%), D (23%), 4%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (36 comments)</strong></summary>
+### 💬 Discussion (36 comments)
 
 **👤 HimanPatel** ⬆️ 16
 
@@ -24765,8 +22718,6 @@ clear B
 *...and 26 more comments*
 
 
-</details>
-
 ---
 
 ## Question 347
@@ -24784,16 +22735,12 @@ clear B
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 JordiFT** ⬆️ 1
 
@@ -24835,8 +22782,6 @@ corect
 
 
 
-</details>
-
 ---
 
 ## Question 348
@@ -24854,16 +22799,12 @@ corect
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (75%), D (25%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (41 comments)</strong></summary>
+### 💬 Discussion (41 comments)
 
 **👤 Charity35** ⬆️ 10
 
@@ -24943,8 +22884,6 @@ it is no need to create a new transform map each time
 *...and 31 more comments*
 
 
-</details>
-
 ---
 
 ## Question 349
@@ -24962,16 +22901,12 @@ it is no need to create a new transform map each time
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (67%), D (33%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (54 comments)</strong></summary>
+### 💬 Discussion (54 comments)
 
 **👤 MACCA81** ⬆️ 13
 
@@ -25050,8 +22985,6 @@ A is correct, CI class manager is not for relations but for CI types
 *...and 44 more comments*
 
 
-</details>
-
 ---
 
 ## Question 350
@@ -25069,16 +23002,12 @@ A is correct, CI class manager is not for relations but for CI types
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (12 comments)</strong></summary>
+### 💬 Discussion (12 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -25147,8 +23076,6 @@ Correct
 *...and 2 more comments*
 
 
-</details>
-
 ---
 
 ## Question 351
@@ -25166,16 +23093,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 jnk252** ⬆️ 2
 
@@ -25232,8 +23155,6 @@ Data policies are similar to UI policies, but UI policies only apply to data ent
 
 
 
-</details>
-
 ---
 
 ## Question 352
@@ -25251,16 +23172,12 @@ Data policies are similar to UI policies, but UI policies only apply to data ent
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (5 comments)</strong></summary>
+### 💬 Discussion (5 comments)
 
 **👤 Jo98778** ⬆️ 31
 
@@ -25303,8 +23220,6 @@ D is correct
 
 
 
-</details>
-
 ---
 
 ## Question 353
@@ -25322,16 +23237,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (81%), C (19%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (44 comments)</strong></summary>
+### 💬 Discussion (44 comments)
 
 **👤 Stefcio** ⬆️ 17
 
@@ -25410,8 +23321,6 @@ Test a connection is a step here.
 *...and 34 more comments*
 
 
-</details>
-
 ---
 
 ## Question 354
@@ -25429,16 +23338,12 @@ Test a connection is a step here.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (6 comments)</strong></summary>
+### 💬 Discussion (6 comments)
 
 **👤 Mohammedhz** ⬆️ 6
 
@@ -25498,8 +23403,6 @@ B is correct
 
 
 
-</details>
-
 ---
 
 ## Question 355
@@ -25517,16 +23420,12 @@ B is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 jnk252** ⬆️ 3
 
@@ -25582,8 +23481,6 @@ I think C is the correct answer.
 
 
 
-</details>
-
 ---
 
 ## Question 356
@@ -25601,16 +23498,12 @@ I think C is the correct answer.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (80%), 13%, 7%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 Jorr** ⬆️ 7
 
@@ -25699,8 +23592,6 @@ In ServiceNow, if both a row-level rule and a field-level rule exist, both rules
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 357
@@ -25721,16 +23612,12 @@ What resource do these statements describe?
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 GilSAtx** ⬆️ 2
 
@@ -25744,8 +23631,6 @@ Csdm is correct
 A, the correct answer is CSDM.
 
 
-
-</details>
 
 ---
 
@@ -25767,16 +23652,12 @@ A, the correct answer is CSDM.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (51%), D (46%), 3%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (42 comments)</strong></summary>
+### 💬 Discussion (42 comments)
 
 **👤 MattMeyer2022** ⬆️ 20
 
@@ -25886,8 +23767,6 @@ I would say A — the reason he's not seeing the tasks that they're working on i
 *...and 32 more comments*
 
 
-</details>
-
 ---
 
 ## Question 359
@@ -25907,16 +23786,12 @@ I would say A — the reason he's not seeing the tasks that they're working on i
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (10 comments)</strong></summary>
+### 💬 Discussion (10 comments)
 
 **👤 Erp88** ⬆️ 11
 
@@ -25994,8 +23869,6 @@ Is there a source for this? Never heard of anything like that
 
 
 
-</details>
-
 ---
 
 ## Question 360
@@ -26017,16 +23890,12 @@ Is there a source for this? Never heard of anything like that
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ADE
 **Community voting results:** ADE (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (18 comments)</strong></summary>
+### 💬 Discussion (18 comments)
 
 **👤 Jo98778** ⬆️ 36
 
@@ -26113,8 +23982,6 @@ ADE is correct
 *...and 8 more comments*
 
 
-</details>
-
 ---
 
 ## Question 361
@@ -26132,16 +23999,12 @@ ADE is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (11 comments)</strong></summary>
+### 💬 Discussion (11 comments)
 
 **👤 AMITKSI** ⬆️ 1
 
@@ -26210,8 +24073,6 @@ Correct
 *...and 1 more comments*
 
 
-</details>
-
 ---
 
 ## Question 362
@@ -26237,16 +24098,12 @@ Correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** ABEI
 **Community voting results:** ABEI (56%), BEFI (44%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (27 comments)</strong></summary>
+### 💬 Discussion (27 comments)
 
 **👤 ANCANC** ⬆️ 19
 
@@ -26343,8 +24200,6 @@ F is incorrect: Database updates like a new table or a new field in a table woul
 *...and 17 more comments*
 
 
-</details>
-
 ---
 
 ## Question 363
@@ -26363,16 +24218,12 @@ F is incorrect: Database updates like a new table or a new field in a table woul
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BC
 **Community voting results:** BC (82%), Other
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (23 comments)</strong></summary>
+### 💬 Discussion (23 comments)
 
 **👤 40a783b** ⬆️ 1
 
@@ -26453,8 +24304,6 @@ we don't have a module called "Fields & Columns". In ServiceNow, we have a modul
 *...and 13 more comments*
 
 
-</details>
-
 ---
 
 ## Question 364
@@ -26474,16 +24323,12 @@ we don't have a module called "Fields & Columns". In ServiceNow, we have a modul
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 adyrip** ⬆️ 1
 
@@ -26507,8 +24352,6 @@ CSDM framework map to the physical model objects (tables and CI classes) in the 
 
 
 
-</details>
-
 ---
 
 ## Question 365
@@ -26528,16 +24371,12 @@ CSDM framework map to the physical model objects (tables and CI classes) in the 
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 GilSAtx** ⬆️ 1
 
@@ -26551,8 +24390,6 @@ D Plugin
 D is correct
 
 
-
-</details>
 
 ---
 
@@ -26577,16 +24414,12 @@ D is correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** D
 **Community voting results:** D (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (2 comments)</strong></summary>
+### 💬 Discussion (2 comments)
 
 **👤 skibumvermont** ⬆️ 1
 
@@ -26603,8 +24436,6 @@ https://www.servicenow.com/docs/csh?topicname=c_UniqueRecordIdentifier.html&vers
 correct
 
 
-
-</details>
 
 ---
 
@@ -26623,16 +24454,12 @@ correct
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (79%), 14%, 7%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (8 comments)</strong></summary>
+### 💬 Discussion (8 comments)
 
 **👤 Sam_Sonic** ⬆️ 6
 
@@ -26696,8 +24523,6 @@ Configure the form to add the appropriate Available or Not available lists.
 
 
 
-</details>
-
 ---
 
 ## Question 368
@@ -26721,16 +24546,12 @@ Configure the form to add the appropriate Available or Not available lists.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** A
 **Community voting results:** A (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 Schoolboz** ⬆️ 1
 
@@ -26751,8 +24572,6 @@ A Update sets
 A is the correct ans
 
 
-
-</details>
 
 ---
 
@@ -26775,16 +24594,12 @@ A is the correct ans
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** C
 **Community voting results:** C (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (4 comments)</strong></summary>
+### 💬 Discussion (4 comments)
 
 **👤 Foodiepanda** ⬆️ 2
 
@@ -26812,8 +24627,6 @@ It should be a star icon for favorites.
 
 
 
-</details>
-
 ---
 
 ## Question 370
@@ -26839,16 +24652,12 @@ It should be a star icon for favorites.
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** BEHI
 **Community voting results:** BEHI (53%), BEFI (22%), BCDH (22%), 2%
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (35 comments)</strong></summary>
+### 💬 Discussion (35 comments)
 
 **👤 trye_indicators** ⬆️ 14
 
@@ -26952,8 +24761,6 @@ Every Business Rule includes what table to run against and timing (before or aff
 *...and 25 more comments*
 
 
-</details>
-
 ---
 
 ## Question 371
@@ -26973,16 +24780,12 @@ Every Business Rule includes what table to run against and timing (before or aff
 
 
 
-<details>
-<summary><strong>🔍 View Correct Answer</strong></summary>
+### 🔍 Correct Answer
 
 **Correct Answer:** B
 **Community voting results:** B (100%)
 
-</details>
-
-<details>
-<summary><strong>💬 View Discussion (3 comments)</strong></summary>
+### 💬 Discussion (3 comments)
 
 **👤 tim4896** ⬆️ 1
 
@@ -27006,8 +24809,6 @@ Service levels
 Service level agreements can track the amount of time that a task has been open, to ensure that tasks are completed within an allotted time.
 
 
-
-</details>
 
 ---
 

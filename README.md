@@ -12,18 +12,35 @@
 
 Nếu bạn thấy repository này hữu ích, hãy ủng hộ tôi bằng cách:
 
-### 🔥 QR Code để donate
+### � Ủng hộ dự án
 
 <div align="center">
+  
+```
+┌─────────────────────────────────────┐
+│           🎯 DONATE QR CODE         │
+│                                     │
+│  Scan để ủng hộ phát triển dự án    │
+└─────────────────────────────────────┘
+```
 
-<img src=".tmp/qr.png" alt="QR Code Donate" width="200"/>
+<details>
+<summary>📱 <strong>Nhấn để xem QR Code</strong></summary>
+<br>
+<img src=".tmp/qr.png" alt="QR Code Donate" width="250"/>
+<br><br>
+<em>💝 Cảm ơn bạn đã ủng hộ!</em>
+</details>
 
-*Quét mã QR để ủng hộ dự án* 💝
+**🌟 Các cách khác để support:**
+
+| 🎯 Hành động | 📝 Mô tả |
+|-------------|----------|
+| ⭐ **Star** | Cho repo một ngôi sao |
+| 🔀 **Fork** | Fork và phát triển thêm |
+| � **Issues** | Báo cáo lỗi hoặc đề xuất |
+| 💡 **PR** | Đóng góp code mới |
+| � **Share** | Chia sẻ cho cộng đồng |
 
 </div>
-
-**Cách khác để ủng hộ:**
-- ⭐ **Star** repo này trên GitHub
-- 🔄 **Share** cho bạn bè đồng nghiệp
-- 📝 **Contribute** bằng cách tạo Pull Request
 
